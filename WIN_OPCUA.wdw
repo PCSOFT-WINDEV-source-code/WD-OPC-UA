@@ -1,0 +1,1140 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_OPCUA
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_OPCUA
+ identifier : 0x2d762b8b04d85858
+ internal_properties : CAAAAAgAAAC77UAq73K0WhZfFKZ8w1uU4QFeZesucZYZOnNgRw3FvS/1Wlv6wc7Eo5JSBAfrcO59e0fr5ndYnPLbS5K1HUkPRmsKC2m9a0+wW75TKvon8zjh+oeypw56o1f3ONQFsEoCZzgVAEY++fK+K9npWch5D1hBPDR+R2SLhp4szREpIuiBpBCxjE6Gsx7rgXyHK1nK2BlaiaqQirzhL9Na11bXDoPP01ykQcPJSQXIbY0nbp1nG7BYCWFN5cagNbcNVCdNX1wR/cXIZfXK7KdaAILI4y1XZQMS6r9p4ricVpYEfuV84ZFaGezQGfsAus/loo3DONCzG6CoS0pMq3wI1sRsg40Agoc1v9pgSY0HXc73haQirD70Uwp+MDJRIyFqW9K0r8UnCxGqspEVBfr2j8+vKkeA7CFytkoxhmzvE0lulX/D2/1qZRw5qpJD6a/GGl2xbl08A2yyNfanKvtNxEqVvboTYi9nkQkE91KtqJUHmBiyo2oGQI+WL2PzuV0Y3aQCICPjNVAPmrgCf4fhQrlUjTVgbWC+MdxDC4uEVOJO+cCDK1oQen9jvrjBxsMS1BTVn/BhdYo5XhPAUGPm1yxKiZnAQLv1K+3W54sWmwApyittjwT2pscwtc8ucmoWWKyEz+pwuRADHC7Qf3Uu8ltBzZU/h2QeoMzJf2eGEARLiLCaZajuXqS3kNai0mw0TJbwHhYIH5c87wkR/C5zuxsWXrZGS9P7c5cYNj4Ld7bLTae1pjemIuiNcEYNFwMlkOV2Z24jIm6rQFQ2bJXqE98PxSU+THirwKjmXoZw6djkHKX4+N3PzOKD8/CCD78AijO2U37ec9Ue
+ properties :
+  width : 860
+  height : 638
+  widthClient : 858
+  heightClient : 606
+ controls :
+  -
+    name : Layout1
+    identifier : 0x2d762b8b04d95858
+    internal_properties : CAAAAAgAAACBXcnOE2pwcyXqzUWUc1q7TdAAQ5CCkPdWJ42SUUfTbc4sYrYSvYgwtHF0lT66SR188WYq77jzDbruYtzPLpZ/zHRVi2PNpbHsabcICenBuR3Pi6+EO9amlO+GCyl1387bR6g8xk9T4KnGhFOHxMTQCANZYS1PsQl+bGwcw84b0CztbB4llvP4EUA7u8UoHRLa6uTXQTnAo3QjPuXkLuyo+8Pm+9TnqERdTKbzqi3DNlOUamM7fefiLqM0N+pBkJevswKHWwQsJltnwWQW4MAXs5bbO6Cizj61HkKPP/a/1YDviCG2yOznKPJONEivT7ZVMyM+cdg9buTUa8+WDgHyu8A6b9jeIWCr/782roT6xQVwtzkQ+L7v8F6TlCgpnbPBT6R/dcH4+xtYXFARLpCdgailc3CQqj3tMlBTbigbhwIJkXJCLq5LuSmp7sTo5twMTduZBJzEalqeY+OkVijIG3z2mwxQpU/cnTvS4wZHz6ubUW9alXeNgybpRH5cw+yY+DBViKyud2me2trPVTeafIg=
+    properties :
+     x : 9
+     y : 9
+     width : 839
+     height : 587
+    cells :
+     -
+       internal_properties : CAAAAAgAAACVe2mXdx8sZNMSJZJwoBaF+KUqT6dnkX1nObAYsyf1IkLjFlGvW4u7t4a+BUx7N/E1uVOIBlqYFqus0R6j6NJ9FhILU5IRhjwPyruzdTOu08t8Ml6yvpv5tgRHaw9aHaMmfX+kSlSoDmdrsj5T6iwj4qGrsTxC8nuiXLsy20waGQ==
+       controls :
+        -
+          name : txbServerUrl
+          identifier : 0x2d762b8b04db5858
+          internal_properties : CAAAAAgAAADijYIUmW1QooGwpoj2C+ors5CVOClCSdy95F1/hZ3YMToCzZt3WBiyQT/gHiQEOwq36dV32abINWjezEUcfAwcc+keXEAv22P604pIcCvxucowM3ypoiQV4ZATRECAGiSF3/CB622qEvhxSKCvXtftDB2Y2LiBDPlG0JRwVylnPsZiR9jy6GSauytSwbRpxsmdufLOQZu1Bv5AnaFu6y3swGsfMClKQvcZ6DZukETean9LzUmc3LoCE6S9xngjLb8Hgj7wo39jnXu2aaE2LAqdVZeR6FqB3I4D9CFUzd5ama7KJUqBh4RdRd3Fy03HyLJZ+w5XPJA5v8Rag9rgHhndc+lG94NyFgoKSPE1W+nToe9WPmLNsSj9psC8jMoZ2wxj9c7Hxv0CTFCcmbUqEUWBodM+giivVrIBZtVaBaySFC+vMvmw4yZnnylD3LiwxRct/X1K8e/xX39TITYVR5HINvL6I4JItqYbJjErzVz0xN23qfuViyPlB5VAcjAUu5BSkoDBWzex1wuu1zvk3Hqr+j1fGUTgEQnKQV4nw/gtffQ1OHIU4/kR/bpZWJKR4LkENe6m3ABPxBELTWOBiSeuTXYvl4A7Q3dRPsnZX5t+cSxgkd9zyh6/GUVvcIa5hoN6yS2vK+pbo8rK5sPFlY7WC+BOFnLkRTjGtSJxSoYJ4rgpNiTMoKtv/PPequtjC5qVBqCx3GRhkzme9Qn0QmV6kxD3XtzFh3o4AM7WG4yMRIYeKNpMsFpJqb0HZFVAnL6Dvn66AB4Kd7gBCvEPq41Qa9jzVDQ0sUj2+7XzWSu1AgTxhgm0ZFZC21AtYN8ESSa9GWfQ0rSLAB1dEZJYXdOBwqX2JjJi06xuv6gv7RZy+640VML1AQOr9SVvwcCmeOdbJ2TwhU6vKX8q9SSvNZHKHRlg0JPAoBV4wC5h0FVLjOJV7yCHk0ls9xxCbSBdrecIO1zcjkXKURLjrtXLVIxY1d+i+bcc35Rd2JNSadNRLiBdMejNNF9VkuaPY3nZtXoEa6eVeK5fn7p6nPe4FVOUhNh/E2nC2DUSw2i4jeMuMKtul9gtrfKH1hkDic7n4Tul5wIYqFJhYraDpOUZr88hZBFtq1B+LHXfZxEUxJetzmKbE076LYIPjVZ366x4ZoFJW1+yjtYhi0ipeVW3SSh87N7Fkdta74ympfUUIX35p9UMqzcTfOibGSgp4tjP7/jIGtEXZEcFwuABj66d29x2BAtrZIAaesIZc9tUipJQb69dlP/nU9HPLsNqJRkr1j7iGL/Uwt9+uoiwuSeWiuEeK5YkycTaNUuFj4cAfBCh5J1Fj5gf3Mm+nRXTgqq44/ZsFIKwmaxtlZdxDJ55KZt4vpWZhsiJDeencRbzHHCbNW3Wo0slUagE73V2C3cBbFv8qKuYzzlIoUk=
+          properties :
+           x : 12
+           y : 37
+           width : 821
+           height : 22
+          type : 2
+          code_elements :
+           type_code : 3
+           p_codes :
+            -
+              type : 276
+              enabled : false
+            -
+              type : 277
+              enabled : false
+            -
+              type : 278
+              enabled : false
+        -
+          name : btCreateSession
+          identifier : 0x2d762b8b04dc5858
+          internal_properties : CAAAAAgAAACDLesNhwwWU7oa5VzhawiOcIZZPvauOenGSKiUmI94WKDEKrvE5KiRPBecggE+l8OP47PAJQKoOzpEl4dL912LBH7z6Sa2c+eYp4iYhS/BjAmU+/g97/YEmFwXR+7V5BO95+YY9GxD/yg5afYJdjjSnZ0bJTgqNYDViE/KrdhRQAxfBFUA7eGxV3iktpVZQFakk+OTCBkOAjZxpc9DMvkvW6XPqLG/i5AhLF3ljNKMyKRQ3mMCmbgdjSUR5gRdWlHKgMnHWyVQNGtGIYVAC1yhJY8e7rPw0jOHdqCdsWMmxpumgWyMaVB+ySb41JO1bxEdERplsiWBvaHpvzd3kFco8k4iGWQU5iDT1j2Iik6IQdF0ZWUxuEfnwaa5Ehpih3hRrCNIovQrwBjLppTkXmSc9uuvIW/J0g2+HG548jxLbz7Hb+N7qN5gmGosZaNkT0pbt8QsE+QyV0VPAuE1VayuNd1NCRd12CYGYScdRPf50eqA/LeZCbQu6bywJ1JNOKNOhdtTUy+I0Ve8PkwMIpeYLS0u1pFw9mV0F6KM6E/0dJAmyql0VoSQhATA7PzSdTwTMgE8VZfdKTugL+POuyL51BQJiTd3J6n0vQ93WymPOzEp+9jn2oXP3bCt9svfxeLRfcw8MTgIDqpqXxipOlcQNbTuTkbAZMNKGimo4A3qRfoDf5DTAy/kCG8rYmHLN4SlGaWaFB/FnVhllMx3eMN3syVpfBMNGfPv8QxuWyKOrbBP3ukNB3hFInVfeqaaEftrrKAfDQp9OQScKyzAHyLDqJ0+dxPbQ1V7v6DF/vR5fOYUi/vy2nMmYRel9hvcnS90dNkuefBc1p5nwDOQCn6tDL5V3HvIl/nFEF8gEg7PMrALuzNmZGXD4SfDs78IUS/mUOSS1gJfv6k=
+          properties :
+           x : 718
+           y : 90
+           width : 117
+           height : 24
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1+
+               
+               
+               
+               bSessionOpen is boolean	
+               
+               
+               // We specify that we accept certificates that are not "trusted".
+               // Allows you to skip the certificate management here
+               myApplication.ApplicationConfiguration.SecurityConfiguration.AutoAcceptUntrustedCertificates = True
+               
+               myApplication.ApplicationConfiguration.CertificateValidator:add_CertificateValidation(DotNetDelegate("certificateValidation","CertificateValidationEventHandler"))
+               
+               // Connect or disconnect?
+               if btCreateSession..Caption = "Connection" then
+               	// Retrieves connection and configuration objects
+               	if not GetUAEndpoints() then
+               		Error("Unable to connect.", "Check the address of the server.")
+               		return
+               	end
+               	
+               	// Connect to the server
+               	if not createOpcUaSession(EDT_User,EDT_Password)	 then
+               		Error("Unable to connect.", "Check the address of the server.")
+               		return
+               	end
+               	
+               	bSessionOpen = True
+               	
+               	GR_Connected..Grayed = False
+               	
+               	ToastDisplay("Connected")
+               	
+               	Layout1[2]..Visible = True
+               	Layout1[3]..Visible = True
+               	Layout1[4]..Visible = True
+               	Layout1[5]..Visible = True
+               else
+               	// Disconnection
+               	closeOpcUaSession()
+               	bSessionOpen = False
+               	GR_Connected..Grayed = True
+               	
+               	ToastDisplay("Disconnected")
+               	
+               	Layout1[2]..Visible = False
+               	Layout1[3]..Visible = False
+               	Layout1[4]..Visible = False
+               	Layout1[5]..Visible = False
+               end
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : Enter_the_address_of
+          identifier : 0x2d762b8b04dd5858
+          internal_properties : CAAAAAgAAACktsfeRw+5OujVq4FDWPmGfdgYTl4lQUiKkTczv2iXQLHlkp0JXX77d9ZGufiKSACrVOzvNVRldNnih3pSewT68dWTYyhsLEuhjM9SImRFrynRShLxN5DzqUlJ+p1pSh/2Tg+yJRQn026zqzmhv38js6jRbLeC+sNKAR+dZOXC9CocqplM9SWHpZsqPBhya8QvmBmesE6mArTZqZ2NgkQjUYkqxr5S78MFp1TYzjz7b91xt4KcW65TOJKSvrsP35K2owaGT2mA1PWoEhp1NIPdYSdeYF+X2ty4al1YvtUtB9pRmV5EAwsU5M2p8j+PtRUMD5F5WZZmP2R5KCdQ1LszWitef7wLgB1QPSWfw0fN3xEza7vsPSPEXAe6FU8qygncbLejoboYNVcdWvDLnxIErRSkoEsIsbLQ64tgDhFr/wYiBzUx+GxCTCcjMO+z+PS7ysQ6KuKvh+j/Q+ZSEepxFEeIfe3lfXbWzQON6qUeXleIn1skS6ix5lvdmxRG9fPQVc+12Hek33aFAwkXcA==
+          properties :
+           x : 12
+           y : 11
+           width : 302
+           height : 20
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+        -
+          name : EDT_User
+          identifier : 0x2d762b8b04de5858
+          internal_properties : CAAAAAgAAADu+ehYVh1QVNBDewQxy2GAaido6woJfh5MQKclwcaR8sdUoalvzYgq20DvFSk1MfJN2NHv3x6TLHY55eObavVbrzS+i1JMMq4mJJo4n5c6i3HhI0gPYNd4LDzzuOlgHfBEn2Rhdu1TttRIwJMs9JhPu9HBbgZh8LvZGivon0b36IGOThLLEQLbOaq/7JOeDYfFf2Broixm9T6sZwB7Wku4RbQ/yTjBZmqT388AMpVqLHq2EoSKgdSVHADQIpbO26N3WRp6fRsCV0DIVUbYuLEiNwj8F55nLJGAWTj2n+qbhE+H+TvPNtaP0Ok6Pp99SeoB3vc8ikBjMfpBzcLCIbwTonUHcHNcTQ0r3JetApMAoqPQlFDpJDfOkdp3ejWBml3sTf9MxUBTNs+hhwc6C/PkjMWDPELWhd4ca1pZexOLWNV05xL5GV2EXaX8AU6AYZMTy5BARevFLZ82fQuV8SL8kdXJr8jUZRBIg945U243AbIa3h8ZzTtqqDHMJgSv7ah8gdaPA9Vluat+q5xiCvtKhRHrmjijA3RGRzC/1WHb4g4xXuh0eEwWEiSpBTHUFh0jYWAuRlg6dK7fwjWJHGKlBUvoAF8JEKTKfjjzbcTWZcRsUgcKClaBhB6V4hFL9slEOIponXqmKwsg9gF8apLdTBD0IC0/+6UVANqYJ+PGmjk4vBJ6a50U+yOTEHX3zzeGCWFfgKg59fQJFSof2wHojvShIpPEOLy9zGhXLQMt3/QhJIX8nsit5p0MJ8yJHIrha+tl0FJZgkwxdaX0Mp4v5SvqXVJE4rkGn448SZbGRlge3yj69qLT2QRV25X52G3Lrn7cOL4RsXFzz9sW5yAOLMY6e3zX/Du9nqOrV0JB/PwViVbsIQhG0qLAncM8XBe2j7i4oXMSYfwvLpRS2Z+c+DmuABipB723sw1tu5XdaRau/h8sABQkjnSYLEoMJoAGqULj/HGGw8ThEB9sn+USkPYOhlE7aHvceUA0hoAf38vkYAcjuoHsOCu4IPF2AAkATFrevJB1TvjuFBAO1Fz0+57H3QzRoZH2HLo2ucc0+pn0j7+hw2ul6e4C6MTNV9ZymbfAiC6jzyOMM5SvqXStdeAD6Q0+m3mLMpx+gTVF1ra21/B5HwIS00ro1sv7WLkBZY+84VYEVEyxlZigMM8Ega6G2YhSHgdalOC57NtPs9LSqMgFdiZAee4mFLJ0p8gmHBAiE4rH/KEBpnXJHmaYjOZ6wtgyL388tg4Ap+54Z1g5vq79ney/NjXX0vhVoce7stuweIGDctxpZCsJTwYgxmX07YCNPr8F1YlHlgZ2LW6uToWeno9a4lcsht8SQ85H4gtgxq3rXptPxY70
+          properties :
+           x : 12
+           y : 91
+           width : 208
+           height : 22
+          type : 2
+          code_elements :
+           type_code : 3
+           p_codes :
+            -
+              type : 276
+              enabled : false
+            -
+              type : 277
+              enabled : false
+            -
+              type : 278
+              enabled : false
+        -
+          name : EDT_Password
+          identifier : 0x2d762b8b04df5858
+          internal_properties : CAAAAAgAAADeD2nxzgRMquyQ4HrCPmkj5a9ecmQe/AwMsAehnHr5Cu1urqOtdvg65kdy5QorJFwceA2YhjKVsvRA/3Hz+vW4dwD1OYlPv+bJYfy0GAbAFKxJQUa4K4CLQf3ifAPFLLvkt4J1+GQtNm4PSUB4qtLzh0lhH5i+PDWBx4hYDFPG1gwhFd8JXcbRIqYpBlqyIhAsJfmuq4sCUcu/9dzizEGHx2hivCZ4+B9/TKZF53s7lmm4VHROojQ7uZAPTKu/HSdWooNH0G4AwiGyp6KoqXkIH24JdsTxGlEi7tu7M2PRjSfUhTe9/LY/cdSsZ4NGyzToump0ZuPhCSwupxRVlsd8Hj658kgEkB8GqhNU3eDXRoUaYf1zsT5P3Z5eKsLZ5W8dd5tISHtnPJHn1TRBHl6SvtGqLEjsMLw/wmdgZwBFasoR/bNN4geTcP+SP4hsdNUieg9flO9Hqet0iTRbqkCAOoU2UJuOpPpYG7cUUeO/c7kJYDTAVmRk4HzaIXTW3HPEkLDX5UjZvUv8wA+HsHxvK0Rp75wBO2frspxeBDFgUy0+rCh5XcVjfBYB4TYA+4dIbOv+234d3fc38YL1AsCAZ7S3Uifz9g0rk/qtpSK4bILCp9Qy6fEx4ZiBarZbK3yQXVAQNbPNLSjIdGqgEgHUw9cqs24yTLAB7uD6r624xXnOrFQ08Hrbbu0dHu+JJmsTJXuKrYS1Q3Ei4QWl9H/PFf4pbpR6zSLar3MV+g4Qlcng8vxkEgHKTQRyp5EXMzyueBHjrSRc3wIvaMhNmwG8UrS0z8Vz0Hoc9Ztl10KGlj7ubp2fx4akLCZA7QhQFRRVl4EKaMq6NkjN7dCS4AQNtIuwCvDYg7cDAt88RwVNSKHk2skDbK6NGu2eOcAe+4c64311l6U614ZjVltHvraTouRfYBrbM59Dj2eINlDDjk2FK2APHeO9rhl0nNQgDz7JFbNY4NCJrkpJCTV4VKVG8BSIJCU4P4anxhtZqLEd8KiSseNLna8BuB/7wXqv9x30Eh8sN4R4IGcr+jdOTar7sL+wYSfA9M8sNFqkBc6SiNxbl9OrpRI6VmTJRWega5kQkGBXWA08zmfW9nHsvrGJkD0FfxMy+XIXuixKGyF2luBhFWsX9k2BKWKDx6091ndViU+jvB3wTZcbmU2D+tnkfnSPqNpRdSlnTDAikyqqYj3enSysmP0kvFPjkZPvRSuHEswfULl8spUg2Mrk4Vn2kXxSJiEBTAflC7XWSJn+XH60bfKmMkELXZvthxXMX74xve1DYFiisL+lD+5UNGCnqof7RdiE866NplKVmj6uyHtacW1n7sgUNw5Lu5nKhepFH84SszIoFdkvgc3YFDfFWA==
+          properties :
+           x : 240
+           y : 91
+           width : 208
+           height : 22
+          type : 2
+          code_elements :
+           type_code : 3
+           p_codes :
+            -
+              type : 276
+              enabled : false
+            -
+              type : 277
+              enabled : false
+            -
+              type : 278
+              enabled : false
+        -
+          name : Connection_details_leave
+          identifier : 0x2d762b8b04e05858
+          internal_properties : CAAAAAgAAADshWfxifRDZ/HantpL6BhIrGhI4xEYe5k/PpITntCokIrUhI1/tQbovnL1y47FdB5dUHGhWaX99y1vBuUZ38lr9T2Y2ZgUZ0Q3uVIcRNdZQZzZ7qp1K7QrmWkadavBN9zZSECkmex4QzQt+XT1wq1h3tUIZCr1bts3BLA0zaCdMZgDn0sqJJyWxtAdQodQUSsrggla20lMTFfVSLNuhdglXmN12TRztSGSD3q11do5igrYZ7eY9VAvoZTv4hqIS6+7LCV6beQIBckXd8K6+FEonvoNR9vFJknUaqm7Smz+t1tO9RtyzO4ospkD+Kdm8wigTg+p9qmzC+Pm0lkIjqlAoQMXmu/O2rQs0G16vPJ0w7Qrv3XvEtJCmSc56xtL56E3aA+xPAtBFSeEq1JHNae0SghEKU9oF/u0BHnWmjpHvFoPKAiLpMWK2KrersATRxp/NVGv7MjVVoYeKgJJES2sBj9dt5QCcsQ9QW8bhhN2SK5cQ4uTrBnAuAamPoHqpBZU45hfIAmFzykRXmHAXq1xr+xty5blxQvLx+uINeEb
+          properties :
+           x : 12
+           y : 70
+           width : 387
+           height : 20
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+     -
+       internal_properties : CAAAAAgAAACm6U0F/nTqoSbIAumRra23qCit60tZ02v2Zsr7TjBBSJ4r/iEr8BLO1TVFnLNbOwdLMebREhaAQY6hhCrG1JHPsuwXe89jwflKXikBPRdRUVb0Uuo7h63A6UQ5VT2w2Plbj3eogUOee1YXkjrVzOdRmWTcVCFuIhKwtr6+/L+eNbC2
+       controls :
+        -
+          name : tbBrowse
+          identifier : 0x2d762b8b04e25858
+          internal_properties : CAAAAAgAAACIyBHTI6hCY8Hs527IPwXvaNg7RbMXLAwWuj52zpdZEkW5rJL3dhMdsEiXkiqRHeACh1upizaTAE1CS2TVXw9iscEGjqSU3mevr/cKHLf4+l92gULFk0gYpDUZAAc2gMipPWTezO7lo8zVL32gYpMTG0mMw8aadnQi3/QJO1USH9a06ncmHh062TcyDKvJ+QYwn//82Uj0E9dQiP8yI2oHS5AxxEpd1HZ8MXLkq8hFqlFFEf+xEFexhYnX7HSLgs1bItNryAQhYMmEMFbouGkpW8ksfSFsfa45O/3zj/cocboyemqjhUCVciU7VibhRg985Yj8UBRG4xkpym66PxdzNwoTgNMnx8rN0i6Il1CalGL4L10hPhD7/f3uH2CfaHASY7MpPx1pWbawJQZkcUdtHx4HVxp+8IPkujzf2nqV3ZHWuodgyeP/4Lt8v1eEmuK7b5sSE7dfoiuaO2wSvY0aoQ/huGIS9JjAXoHOnK9Tw/PybmIT/XrkXwrF/YzFMBCoZoVmklVfxPYbP6y1Kf6mg9WU+LTmFiIUFryZwe/t/I7lzfqg2a48HMf250bG/ju7SrSTtNZPwj6e45xuU5zn/HfFxLU6v4qmitM3mYj8ZREfaOvfd/PG5L/Q2wCgMiASuP8yorD0qo96KU5uiyKIdpZaJhcdJBvlbkvyf45Bbxfj5B2XGDZ5akTSW4kTUqqTqpZEZlKdeZtEJaxQTlSxECEHinLOpj1z0nkKfBhlMi4i6NZakWLPV5K9avRsUu4TTwhl7bbLPpo949Lp53AoI3OCLJ04CQhvhrQqt4za5Yvotg41kJKXrNlLfP1ooBO8NU6VU3FUWWWwL5xTK1/I+zGxE50zPPq811ThbeSIWPyHduXns9LKbNM1JoRnl9q1atx9dtdDLmBAIJdvAZ5eiHw6mFLVQ2R9A1RP
+          properties :
+           x : 329
+           width : 117
+           height : 24
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1-
+               
+               txbNodeId = Open(WIN_Explorer)
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : Explore_your_server_to
+          identifier : 0x2d762b8b04e35858
+          internal_properties : CAAAAAgAAAC2NaqsagUvZSZg54Q3o9YjHzX35VlbNo4xvzOxj6ZY8hZsai9VH+GjPrGPykckO8EBl7o7HsY+Nny4cKA4ulX5WArUX0UQ8Tpr1TWc9GbYaubNJeKokIaQdF3UxDmr/rt1Qqf6UqKi3U4Zj9O0XDqMlscx6uGmzgOOk1ubMc1jfpzb9scxsZ/IcMIstSlTZxsR6ZqBF9kLStXVTXyPd4xLdHg49RKLQ6A9pkwuPecTcIqlZ9NfX7kluhY1U8QmV91OwLGeVfV1usRSnVgOT43YqBM58w+d42BVDWtNjonhaHG8OY6ofFta1qkPIQQZ1qBB8nBBt5H59c+a4EyJv+bNTE4j+XZkM0EpVm2Zt+YhuDndB4zXABNIZlUNfdkdAVxgoLBQpj9ju1y4i3kH6mqJkiXTIU4rE6a03TjCdZSfe1LiVtfyN15QMANa/Tl9ezUnVE/IsW2s+ICDrxEtKto5AQUxxN3AY2mh/SaQhpZLxSFB+RScxAn/XxuMBnLN9zee3lRpbKtj0wIiBXSqazGZsYQ0zEdQ
+          properties :
+           x : 12
+           y : 2
+           width : 302
+           height : 20
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+     -
+       internal_properties : CAAAAAgAAACWOb0V7qT7w/amzql3vZ13PN61y9HXPYFWILIj6EL5aOZlprkdygjI2SMNAPE5F4OHR1bhhJAmxzKfzD78egln5glWrIbsSHbNp8CqzEigYgVRcbtCsHR9XM241qwx36L+YKL9PMhZCCU8rSfoqYbqYPGz/Zq1C13tlW/OzM+OJYCG
+       controls :
+        -
+          name : txbNodeId
+          identifier : 0x2d762b8b04e55858
+          internal_properties : CAAAAAgAAAAAdDZOoRA3fYNqfvW+MLARoyWHYHOuL3Vc508hos4bawrMYR5OsbN7ndfQVN+eHnL/S8lg9LBiFixLuSAWPpYoQ4WR8hRgMVdSjLtAF6fkMkdLD/V9pRCfjZAEMcEtGJikrQOicAl+tU5lPkMlh9FxLGw6WY57TFa1eyLCU4Btv21m7Waig0pvsVaMVoaw5UbP8vY0Jnd4W3xsh3lBGJYUZk08NEiXHDQ+OWh95GpBYrbdawA1MnWHziSrBAzAwk1QeLnTKBagf5SojNW5qbAndP1No2/c5POMDDP+5Yfgq0TpUUeMmkyn+qcCt2cm/Sm9cQFfzVJK6sPmmjdEOu7YcdihXI8Rj1im8dMwHcUE+rlTC3klBG/ofkq+ZISnavuTiSMjnpcyPqRvx5Ggt5k4GZPFRWXMumSzDwvsz28TRu+CoGMt7kXs/++Y0DQrKfKvVf9f/SlFxezyeF5qd5D3x1ViZUI35m+f5DFEPbuw/56m8GTW0i8DLs5b9M3sdEB93saEzHy3cXpOT5kMWoBrwMTJtzFXf0MdjgJR/AVzwhOOjHcKgxnOgFfVLYYl7sgrATfsi018mXahUOPrXy5Ial7B+m0tZOyNujqVQmBHQ4Nsn6v/0peyNJE2qRYfHeyQt4MIaWzDJpFZ6W0n/EMMkfZalJtuY5E5qy1RXB5+iC9YrkuMTPwGDt5Utxxe41eJKDwf0zAKO0gMWXK1IPKVRkWzu1RNfoMyY8avlI1GDMIRvfqL6LYHT5AVIPrTlqlET2Faa9ukmeYKrTHP9d8pQQhb8TbWXPiWNK2jveS4v2FUCj264JjvVNVXH5q5JNkxByyBO1bAdikzBrYoZK0Tg/GphT6nE5/aSJzr5NcPZB0YDGKf+0D1NVLuymEqy63XPanLbk5gbeWpo2P8Wj/uE/YlMjgZ3RAa6KemDjn5FCjn6lxfzx9TcmtITFTI4Di5A0S8Db00iF3t0+ZiCGKqv6xQRTJa3KTe3JNUiE0TJG8XN4M6hS7+TJCwh0OZjW64OYf+TH/ZXA5ifM+UYGdg+51eJhznyrQjWfbe5HOaEudX1V4oRgI4hA0hQF2SyS2z8scyko53XJWpUMSss8fH0sT9Jrpe8vKY6rJOJCn/PHUVvCEGXM8G9uX1Oic2LwIBWQ0XLTmLRMwvd6iESsB84KonqqfwaR32ZF2yd/xa5jovSg1voYF6zTX6fzJZ0byKJeMfbamJlDaBoYTV9dwin6hQI6UsRF9Eh6fVv92jY8nDYf9Dv9ONhXTGPRB/W4De6f98VJeYJBKNNdSpU8y4x87xLXB6QrGZ9YK52syE9fbdlyoV8WXX5jkXr2DLvFNJACSYk91FgPiX+d5wP3MqO2A6sHHe/nskEuZySUhO9KANxdaW4EGlqMbMd6DqFuMdDd5xxgIoj2EQzAmMChcGuxdBktgu/B1uj662b7tmuX2sUvLQrino
+          properties :
+           x : 12
+           y : 21
+           width : 682
+           height : 22
+          type : 2
+          code_elements :
+           type_code : 3
+           p_codes :
+            -
+              type : 276
+              enabled : false
+            -
+              type : 277
+              enabled : false
+            -
+              type : 278
+              enabled : false
+        -
+          name : btMonitor
+          identifier : 0x2d762b8b04e65858
+          internal_properties : CAAAAAgAAACu+PnqQ96/4imVbTRNFvm696zQt6dOM99Kj9MXWP68l7F8wRpjWNPJ4vFqdibVumluH+GN9QahIr6JTuLrPBUFAkFO/JTPbEnvfFBZd3QRzlm12svQUitItmRlPW9YuCcTTk4EIwkCDX8Gw5bq+SVzYB9O/lOImFiF0YjNItdSCyeiiTaY57KFNRsWmS/jsSKH4gvmslYw9F8yBgGpZY9qOnO+kdbXUYcQ/j9Ff2iCE6Jhi1m7Thtg2THdjmEY1BcCwmljOWBziv0CFXW7iQibptr347sonCJh13bqmmm0e+dzB1T93IlqLzySDwoeQB+kNNYno+B689SxDIr1CzgCheFoJ5z+gb+s7XWI1HpeBAkJ14S7A6YRpACPRgGC5xSjryX6EpkLniDgpRjWZWBZ/rcH3JLZ3CCEk98XOaUxWN2gURuajSsFSElqgMrGbzDzuo9ycDnOJJcj897akMQ4sGTZUpzd8pZC8HfC9HcLcxNOOgR7DQp0IdR792CR/BTsBhOMmE8jCIq/RzgHx1Swne84UHrYePSsVqRRe6W3Cpw3NRhYYRhWZKfq6WTY7CVV6LL/njS9oNDoiQaeE14torEXbPXCy/bQVPnr69YuWzdNpsURPcsOCr3GjTKO0rh6QAkwDA7yiNN+IUbC10xuzAzGkl/V3FOt3mvUOcT75Y2JaJE9qsCjWEIsEwO5OJR97LC41iJTr0+I5d5O8CyRgKl/DFBgYhmZIMsovqbjpLi0d1lTqsWgGQFw2eRlFVNpAN889JcotIjLmYjZPFU5YS4gqxSURgsVKbZztzz3hsVa7+OHLA3e4ppUwd566C3o1QT4oZGiQFDAxwQrMUrayKbWmxk3DaaCYyQiRNintofCpQhqEGd3C96h1Du73xtp0wkKzISdnwX9nh/2ei143qHpzfpFF5fcqpf2IAMU+IMG6sENcl5PEd14Zw==
+          properties :
+           x : 718
+           y : 20
+           width : 117
+           height : 24
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              internal_properties : CAAAAAgAAABPZQmIAcm88kxim9gGIan32UUtwEbFoBaw9x2CP3obBU6cWGPYDBsUGxZZb+YXWWN7CCYO8R5Jzevyc39eJy/LI7GYVh/LYjLadCrzQ/gPkpUJ54CuKQ==
+              code : |1-
+               // The subscription will be created only once
+               CreateSubscription()
+               myNodeId is NodeId(txbNodeId)
+               
+               CreateMonitoredItem(myNodeId)
+               
+               case Error:
+               Error("This node does not exist.", "Please check NodeID.")
+               case exception:
+               Error("This node does not exist.", "Please check NodeID.")
+              type : 18
+            -
+              type : 161
+              enabled : false
+     -
+       internal_properties : CAAAAAgAAAAWuT2VbiR80eaUggllevlrdLr9K3W7wTGedDrzZIa1TC4ZTlH5FsTA0Sct6CXtqxd3U0bZuMy6T/IbdFbATn17VoeYamjCspSv/bKw/gbiGE/P02mk1r6r7lM6FP7/CejoXhzjXuYrnhdSf1XapwC4Uj8dk+NsNBiC/PBOTE8OpQAG
+       controls :
+        -
+          name : txbValueToWrite
+          identifier : 0x2d762b8b04e85858
+          internal_properties : CAAAAAgAAABTquE+po8d8hs/m7NvjIg9VzkUfAkNd63wVZAomrGZQrFTIXpUyrXM4aSQtsyTKY5OJCGNcM9+p3pzEBG4D5EDL2rCZIrLGERRXS5NDJf4OSlFC8eOSfaTJ5pUu68OarZhQkIXx1vNyOJ4xVtrJFK1AOGEDn6Q8n8soRHFtoo3KvQ8VoD9XJXXE+RdQBYKc8LsFxuPYQBhx4PmaDbjkqmOAHsEJUfDMaqv0xsPIUmVjQgdDWEQedOcJYdIVNK6FsvaYeeQR2YOh9VSBe86UjGijObBNoSrcBbnbm4IDgIBGkcxCpzKNrEcosA6QB6ji8afkSJoIRDCu5rx6TxngsegGujCqe3Lx6bZdNDv5Hcu5neX7P0ob4Z8SBzTUrDWL3yPi//QAtK05n+VC2et3ieNyAIlJFF7U/kc8O8v3xaKDGbfEF5atAs3VkoezWOsOQita/5ZLZf6ZZaTkz1PNzxwROjo2zpl4Le0j8zfWvJNaMQwclWjDwqvGIB4RMHgYZkEBbQQG09/szAn+1n7ncxwjVHFwq5ONWSPjdDpe5UwTCk+8FiWuH1d1SNV8nVc9s0z8A68LdwMNYFnkOQM8cbnwEUR7PsUXRhGQir7od3jhkXTFOWqC+jgGJAjyqkO67rVS1dPVO+uPmcNMiR/3U7AQWeIy4WvwvwhP1g54rr9E6Q7BOs0r0g3JWCM8W5x97EUDP4EoYub047pPGYStNyVyHF4vuIZt+ovnmYGb9z/r3BRV6Z44f2C7m/ZHPrb4iwPPUrL/6fcn7n6563+M8astVnF/TXGTDJLnAZwXqQ9Bi/z95XROMxuF1lP6O9uQCSiYiDIPPsW1HvI3AEHAAkduUavLhZX/+/4L7BrwttkYjw3GSenuYCBpxajvumsZMGJjOIxLRL60xFQbyaGSj1pTRFgsHC6MefQyu6/8TLK/qy+QCzZYBELS4w79ckyjPTkH+D5LRiK5i6vzAU95Wn2eIlv/u+52TDrfDcaq+Yx7pnqxzpeKCJOKWFTjT5WL+so7QwP2C+DYeTDn1TRQx+rB4IbzrieNUVVMTZfN6p0+i/YyGXOJdwirvdoCP6SQOP9018H3tryAuB7zispYmh1nRoeTTNXCRgWDfu/kndFtOAfWuvtXL0XDjk2tsCHAT/YBiADhTc/FWmud9FQJoKHxlYMKZE62tAfNHzraDNoFJ3aostJXtea635fNJnmJFd4QIbFqXm4jWtrmR+G6NKtgo3129rQsWgCdwtWZ44e83MGkQTDYOLENjun/EcTB9aEFFqj4jePv2QmT9yS6xnksyJMZlu9PjWiPKIoCEV/JPgoqXC5AuddpJJh0jo6z21Y9IAWmTWO2JzRGqhVajoUVQeVI/p39GCbptPL6F6k
+          properties :
+           x : 12
+           y : 9
+           width : 682
+           height : 22
+          type : 2
+          code_elements :
+           type_code : 3
+           p_codes :
+            -
+              type : 276
+              enabled : false
+            -
+              type : 277
+              enabled : false
+            -
+              type : 278
+              enabled : false
+        -
+          name : btWrite
+          identifier : 0x2d762b8b04e95858
+          internal_properties : CAAAAAgAAABVB5wD5svnvTTHmKM+F3EOwHnFMdv6y+OJ2g5EosQulgE0sjPHjHgOEZ0ziX93lefoUX7QhXyZ9nC78ksT9hQjB6DvQ7v7VxvdbS4bJXxAzYCR3f9nthTfRYlwxf7J27qlGJSJHLuKIR2h8bWFQLRCGwl4BlcF19LucBdp3efEJDg6UtYb7viudsqGEFmcEeMVN7KLQ4659P+JpOkq3ityQZedtmNl7aFNYrQqhbdCtcKzZurwQse6f763LrmpIetDyuRMCW91UYh3Q7fT9yvt7EiZW4M8L2c5pci78zCbF+yeTQ9uoKcNBvlWsdgY/rA5GYbvrjL/x+CyW+72DByjoUEIYqdIARQZ/R/xPRpv4QrfBywIdFwjr0rGHJeRfutug4B2/Hyk0qXXhQAUvcwrJPvUw4UYMIOiC7nWhV5El6BScencCjFsmjDCHe10tJYgEgyJa5J/c82Dt3zHKqOyY/pP8kSUMEh9eUsQOCcXK/aXOgJlvxY8ols/OZojtr6rX290mPMtFgv6v+LHGzq2HJQytm5IGDDVKVItdTfL2gPsfUBGp54o9wDC5XpmfldY5eA9fPI1NCl/dzDgbTRrZe41QI1GkyrLsdMrMfxWJ9ZSuN0Po0lA77DWxSoiEiRDlwEu5IIuaKxl1+Sg3fTi5X/Espl3MDvOQbGiyz7h6yyKEKkTQKyj7YW87ds9eAgUOeD+nn51rXL9B+ZOHLbTh+qXcqSoXG+8kVd+kMATYLln2y2BaEfezEo8c1a3Easya9UsHrmiCn/Yqb79vBl5QgUu4e5eaAmiqE7NNZLJyEAnwZULREWKi7HqR3woar9JXJZi7VGxhcu355DJhzwsL6N2N+yE7vdfMmT/BBlbiRjWWvlDwzpxJP1YBGoc1Dp5psiXBJuNksOdL1LEiLVdtr/AJNE/9AtFq+aUNPDXAOT+OA8=
+          properties :
+           x : 718
+           y : 8
+           width : 117
+           height : 24
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              code : |1-
+               
+               if WriteValueToNode(txbNodeId,txbValueToWrite) then
+               	ToastDisplay("Value written successfully")
+               else
+               	Error("Error writing the value.")
+               end
+              type : 18
+            -
+              type : 161
+              enabled : false
+     -
+       internal_properties : CAAAAAgAAADGlQKsdp0qrz/y7mbbTUQqtst1MTHa9T7WAR06Gs5zYIm3eW/uJC1XPxwSwr71ZiAatkduTLML5hVzhP9JR9O3bWnS6xqrJctbzYYXMtHil/JVWygUCTdUBsO4Q0boBdPHdECI1pduydE0n8JAYgK/cfEJHro9gWmLpi1isqFbJenLQw==
+       controls :
+        -
+          name : MonitoredItemTable
+          identifier : 0x2d762b8b04eb5858
+          internal_properties : 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
+          properties :
+           y : 31
+           width : 839
+           height : 281
+          columns :
+           -
+             name : DisplayName
+             identifier : 0x2d762b8b04ec5858
+             internal_properties : CAAAAAgAAACYj0ZM6DMuWWzIrJPRzRJjyRCQ2nJjFZoxqDMA7QlDAknnZWEFmhFrx4WFxU+/y/ENZlSKl8neBlmVLfSHJYzT1ZwH1bBVQbKBzvWBzGJlyVseHCWTFw8pNHJDgnnTQvXmWl37+AdLtACaZWDVc4NnHC+PdT/B/wgcfhiLhwFMN8adajmtKTXhSTDOhasS9TXu/3w+Q85NB6SYszqezsV9jA==
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAAAZ2f+ACr5Ly81tnvlHLBOynSLFg1sdcun/TbfmmyHjibJqK3aowMTkNgPwDjqVWgHg9dmJn5PbYgX84S7x6lotKDYz2cXqzxvm4PGOQtpx4LrNzJkxMSDa5Q4w23FANxxyMihgMIsQAxGzeNsd5QE/jGxodsZ2O+VbQq5gKZtTPdcB98osQYS9HHzosmyKehCVuQoR/UUm1L7Ii54glcKIlJVSpT5Um8q0zvzOdFk7jpGrUUaXOaQ5rahwYAiuXKtcLSBLvZsioly6ux+u2XeWzequCySFnI0Bbh0ZPIJ7lp6X3p0Tjqqu7PmAun7H3bJ6PuCXsuHPouOrbJXyViXSiQ2QeqDCkuBCMX3UfsFQGIyEmA9Xh7AcggdNJrph0bC1sTjdXcoyKcjm+Cf7Hq3Z5qEMl4KdUA33PG5PI6G7obuQWZUXhF/My//RwZA2dIKB3EUW/7JxGSbmYLpeDVrw92jsj/y2DOEL1v3ef/dxrg90AR9yEBiLpTPutJREVNXLzokcHBPxtukftkitbCucRk4rhgz5lnXxucSoBpjhKPB7gXSkzuIuaTslK58qs5rikn1I3GYMF3xVSlpx0lwFu9q3NyxtAQ5pTYai0OaYlc0AjuJ+ABkvls7Lcx5Obwr89vVdFwoZd+iIEomj/QeY83CF8wtV7lUdW3x6mLYjinXQ5CPvq2VJ3gD9tEHGII8p9WL0yTi9x/G1vSpPjD7N69LNn6L0vRLzhGSfkpQ/6Q4GXzr2JAwjRTxy+cH6IK2x59NSpqsQMiMr2sZvGq2M18RnoWv1fGGUX1uIhvDlLwe4FSjimB4jtKRuRqArFJuzHC7v/g2Z45Zqu0W2CS9+h8VNwrYR57pF3d63sp/emeN6UqvMsBgl7RWBKPfKHUtSbK9v9YbNg7bR1H4plqmwYQGC09d9gxObxEiGhj4FsRAl6b2513GguTRirryFmuTVG/a6aI3PGKd98sZi
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACLOgEsFGf9FCNCWGHRtind03kSCuSnW60dIOk3ai7tkqZDzldbZIZ1hpZtZPDajvwvqc8YGTtgFoZulwybQ89hQdnZ6bq1F0K6PlHnQH70
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+           -
+             name : Value
+             identifier : 0x2d762b8b04ed5858
+             internal_properties : CAAAAAgAAADh9Xcsebv1QxNk9MBivdcMmnXDowF18yBlFvG1vCoRK35DSeHTCtTfM/MoqbcrN3wbR9qMrtHzA8APM+Z4B30JeVstIHAvHJ1lC7UDMKE62Ew1XsJJmWa5jesbG60gi3x3i9WiOM+FjwZO3G5WEevTujHIyhQ3Bbbtlp73iWfsU1mAoNnNxRsFbrfzOzHkrsAUpYQFhRudF+NL
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAAAZ2f+ACr5Ly81tnvlHLBOynSLFg1sdcun/TbfmmyHjibJqK3aowMTkNgPwDjqVWgHg9dmJn5PbYgX84S7x6lotKDYz2cXqzxvm4PGOQtpx4LrNzJkxMSDa5Q4w23FANxxyMihgMIsQAxGzeNsd5QE/jGxodsZ2O+VbQq5gKZtTPdcB98osQYS9HHzosmyKehCVuQoR/UUm1L7Ii54glcKIlJVSpT5Um8q0zvzOdFk7jpGrUUaXOaQ5rahwYAiuXKtcLSBLvZsioly6ux+u2XeWzequCySFnI0Bbh0ZPIJ7lp6X3p0Tjqqu7PmAun7H3bJ6PuCXsuHPouOrbJXyViXSiQ2QeqDCkuBCMX3UfsFQGIyEmA9Xh7AcggdNJrph0bC1sTjdXcoyKcjm+Cf7Hq3Z5qEMl4KdUA33PG5PI6G7obuQWZUXhF/My//RwZA2dIKB3EUW/7JxGSbmYLpeDVrw92jsj/y2DOEL1v3ef/dxrg90AR9yEBiLpTPutJREVNXLzokcHBPxtukftkitbCucRk4rhgz5lnXxucSoBpjhKPB7gXSkzuIuaTslK58qs5rikn1I3GYMF3xVSlpx0lwFu9q3NyxtAQ5pTYai0OaYlc0AjuJ+ABkvls7Lcx5Obwr89vVdFwoZd+iIEomj/QeY83CF8wtV7lUdW3x6mLYjinXQ5CPvq2VJ3gD9tEHGII8p9WL0yTi9x/G1vSpPjD7N69LNn6L0vRLzhGSfkpQ/6Q4GXzr2JAwjRTxy+cH6IK2x59NSpqsQMiMr2sZvGq2M18RnoWv1fGGUX1uIhvDlLwe4FSjimB4jtKRuRqArFJuzHC7v/g2Z45Zqu0W2CS9+h8VNwrYR57pF3d63sp/emeN6UqvMsBgl7RWBKPfKHUtSbK9v9YbNg7bR1H4plqmwYQGC09d9gxObxEiGhj4FsRAl6b2513GguTRirryFmuTVG/a6aI3PGKd98sZi
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+           -
+             name : StatusCode
+             identifier : 0x2d762b8b04ee5858
+             internal_properties : CAAAAAgAAADFQF5DjbS2Pnvz+vAYOOtv6bxaVdEyXoeKMSNp0Hpoy6Ar/pIO/we6Cf1xJyK6/r01sEGBkGZQN0zWcHV9rmKhYT5x1JH/MCDnzT9VtDfK6VdJk6L5YFhZhMgr7XyYb4AKqb8JATLkAcRn3nGL1L7MQqzyari23uJXXvfqVIfI2dpGkdbMULh5fz0Tha4Ts9LBQ8gwnpwTC6HQHLfd
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAACoAXPlq3z02kdPfes4IDqi0Bnn8IZ0mtje2Tcu/FRIhzMvzc0LvLs6Uosf23gKxkwO+Tl4xrG6lezODhqtGjBD+HX6SKKmUnrb4CQ+ytz8V9r4+uaebbbWV4GOgPBp/oNRHFSc7/5YIGq+TZmPSTjMV05+CIJChZZhlHdQSAyyOCR30bBgiPG6KRG/ceBOEnPFDeT7VJIluTXDd+taIKyLcH4CwzlPgGsoKpHDluPRM3dXSJQ5RlPsfe90gXn8SOTjBP/GEuTmlcgsNV8tJPV7utvKtIcAwpdZYJkntV7xms8+jbUfdtZ1xYJXQyDR7rjIwMyeLPy+RehbF6O/Y8p8yxK2Cr3B55QPHgsXAFP4xgDR8f2Kh84ue795+T8POb2GG0ZOxqP4NvRCUQikDRQ0jVXmnerO3rERrshvPRPe+TJpDDkp3skaCrgAlH87QYFfrhEKps75j1KVlTo9Rzos6WF/mcjQqeqmWUspjQWrJOnNBH8dyWBHTQP6AdAF2BfRh6R0x4jjru2NWEmNd/GY9n9aNGPOtB97k/pPJGl3nlL6lhLjySo6QV994nGB1WBM5aoGPUd823xXCM/hNUxtP2UAMwHy3QhjbRIvpgn8c7eJjS4RFaPNDMiBHhK/3/6cuxy73Fcld+SwDmRVDpvmDQlEcW4KPsvLOTbxTK+LKsltp71oNJUxgpxdsX2RmBtxXqEiypvDgZubH60P2VrN3z/064lhy+qXYi6onIvRJ6BVqHzTK2Y3ZbJUONu7cjubvliAV/jMAv/XMo8jLeNsUx1WNZjsxqEITT2P3MU75yv1ZKwzTRSZOigeceTCOHWJeaVLrfgd4eS6j8ImdnWCp/TSKFWkyeqxV5ycrkimy1kFD+OdJeK/f+cHx1+Hjxfi87DhSgX7BcjREGG545eUkbahD5C6Ef2N4IiL5DuxCPgADiZXeGCDFrN0w1Dp4bmLZoCp8lc4TBYI/3txpd8=
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+           -
+             name : SourceTimestamp
+             identifier : 0x2d762b8b04ef5858
+             internal_properties : CAAAAAgAAAAqYMg2DKafMUfH3vZoUCF7fVaQCikm5g2/iFvF0lCphbrtFbdnHiuMFNwabiYpny4wIDclWLP3/n2ogjOhbQ2dEcd1Ofz2BkmisAtNRxzLXYSxX9D1Pa04Hscnc4sQeIX6rQ6VpRlDDhyChsP6NWFtCP6zA08zZebmHW6FUpxtEzAVIXLpOPqO0zFecO5cJDIxGKLL39bxdrVPcMguzl6tfeyxjFBiBxY=
+             type : 2
+             content :
+              internal_properties : CAAAAAgAAACoAXPlq3z02kdPfes4IDqi0Bnn8IZ0mtje2Tcu/FRIhzMvzc0LvLs6Uosf23gKxkwO+Tl4xrG6lezODhqtGjBD+HX6SKKmUnrb4CQ+ytz8V9r4+uaebbbWV4GOgPBp/oNRHFSc7/5YIGq+TZmPSTjMV05+CIJChZZhlHdQSAyyOCR30bBgiPG6KRG/ceBOEnPFDeT7VJIluTXDd+taIKyLcH4CwzlPgGsoKpHDluPRM3dXSJQ5RlPsfe90gXn8SOTjBP/GEuTmlcgsNV8tJPV7utvKtIcAwpdZYJkntV7xms8+jbUfdtZ1xYJXQyDR7rjIwMyeLPy+RehbF6O/Y8p8yxK2Cr3B55QPHgsXAFP4xgDR8f2Kh84ue795+T8POb2GG0ZOxqP4NvRCUQikDRQ0jVXmnerO3rERrshvPRPe+TJpDDkp3skaCrgAlH87QYFfrhEKps75j1KVlTo9Rzos6WF/mcjQqeqmWUspjQWrJOnNBH8dyWBHTQP6AdAF2BfRh6R0x4jjru2NWEmNd/GY9n9aNGPOtB97k/pPJGl3nlL6lhLjySo6QV994nGB1WBM5aoGPUd823xXCM/hNUxtP2UAMwHy3QhjbRIvpgn8c7eJjS4RFaPNDMiBHhK/3/6cuxy73Fcld+SwDmRVDpvmDQlEcW4KPsvLOTbxTK+LKsltp71oNJUxgpxdsX2RmBtxXqEiypvDgZubH60P2VrN3z/064lhy+qXYi6onIvRJ6BVqHzTK2Y3ZbJUONu7cjubvliAV/jMAv/XMo8jLeNsUx1WNZjsxqEITT2P3MU75yv1ZKwzTRSZOigeceTCOHWJeaVLrfgd4eS6j8ImdnWCp/TSKFWkyeqxV5ycrkimy1kFD+OdJeK/f+cHx1+Hjxfi87DhSgX7BcjREGG545eUkbahD5C6Ef2N4IiL5DuxCPgADiZXeGCDFrN0w1Dp4bmLZoCp8lc4TBYI/3txpd8=
+              type : 2
+             code_elements :
+              internal_properties : CAAAAAgAAACVbIAZKIyLUtOx/TRl3LdawH8KiRIbZVPHIi3CQG0ZQWORAsfR1LV9KK1m6uVL3Trxd5kjIU0MB2uWkg==
+              type_code : 3
+              p_codes :
+               -
+                 type : 276
+                 enabled : false
+               -
+                 type : 277
+                 enabled : false
+               -
+                 type : 278
+                 enabled : false
+          type : 9
+          controls : []
+          code_elements :
+           type_code : 9
+           p_codes :
+            -
+              type : 35
+              enabled : false
+            -
+              type : 22
+              enabled : false
+            -
+              type : 24
+              enabled : false
+            -
+              type : 23
+              enabled : false
+            -
+              type : 25
+              enabled : false
+            -
+              type : 230
+              enabled : false
+            -
+              type : 241
+              enabled : false
+            -
+              type : 263
+              enabled : false
+            -
+              type : 262
+              enabled : false
+            -
+              type : 222
+              enabled : false
+            -
+              type : 223
+              enabled : false
+            -
+              type : 224
+              enabled : false
+    type : 126
+    controls : []
+    code_elements :
+     type_code : 151
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAAAgTC++6EaI4fCgVcSFHZm7ov4p4QZRp7ymrMzM90iDCICFIWKqWDTMhiBhGlmqpXt77tsHnktEpBgvVhJ8Y30qAz0ekSbyKV36KeKOQM+lBTa9AFJqIKn4UxXdk4BTXTrGJKNAUqvokeZBW7aNq/Mw+FS+4wCzDPKINeXe1o5NRizDVSVn1XuPl68zFxxORcVFVvZTZ2W0+w0vb1ib+5IuEZ2jDjYPm37sIOM3fdUKlGjF7c3yyj6noR6Qjbehq8k4OW0dr/rt0iH+dli9iFhQ0qRjY77dWSWct2cgeLWPMbuDP3uqBRBAq9bV7r1wzg8FIQ==
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACYgi80kYJwJDjFExUoiI9PPzzcee7ksV+bSv6bWTYAOthp80iRM6/r13cVOkv7/28BLmUqcUaxH4g7jzUly046HKQKxTP9do1QP48irtWFu/tVQCLno77N9V98UDNxoGA+AkcVGzXsgqFKNxatik3nINjYOywh/YTbTMnrGetZZ5zXxfMnZ/YFhbdCXQ==
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADWT7V+Z4oGWtE4W+y5++lFefKmC49qmCFdNmFu7vCNgJkWCYCrrsZHsJuk8ThAlYysu7KiOiQOmJHM3JSt+4b3GbgPKE1ZYHLuLwcIck03N+rYHxoY7JGSN1oBZD+J6zjub9ZTLvDbtuaDY7hIW3Jhb1Hcz7RkefKerkZfJPinMfCNv/oeJHgTYOyDT4XJsFGZKjjJf+3eX6y84guQghORN8TXvWe6gT6Gb1wZ0GHdWJcxT3aEOx08EOJIJ1txiMmj5Gp+lYLo1qNKPlyihCb0QtE2Sq5hblPyG+CQGKoOcCXxzvXe8Urx9Bw=
+     code : |1-
+      //*****************************************************************************
+      //	  Author
+      //		©. Michel Condemine, 4CE Industry (2010-2018)
+      //	  
+      //	  Contact : michelc@4ce-industry.com - +33 467 790 737
+      //	  
+      //	This software is a computer program whose purpose is to implement 
+      //		behavior describe in the OPC UA specification.
+      //		see wwww.opcfoundation.org for more details about OPC.
+      //	This software is governed by the CeCILL-C license under French law and
+      //	abiding by the rules of distribution of free software.  You can  use, 
+      //	modify and/ or redistribute the software under the terms of the CeCILL-C
+      //	license as circulated by CEA, CNRS and INRIA at the following URL
+      //	"http://www.cecill.info". 
+      
+      //	As a counterpart to the access to the source code and  rights to copy,
+      //	modify and redistribute granted by the license, users are provided only
+      //	with a limited warranty  and the software's author,  the holder of the
+      //	economic rights,  and the successive licensors  have only  limited liability. 
+      //
+      //	In this respect, the user's attention is drawn to the risks associated
+      //	with loading,  using,  modifying and/or developing or reproducing the
+      //	software by the user in light of its specific status of free software,
+      //	that may mean  that it is complicated to manipulate,  and  that  also
+      //	therefore means  that it is reserved for developers  and  experienced
+      //	professionals having in-depth computer knowledge. Users are therefore
+      //	encouraged to load and test the software's suitability as regards their
+      //	requirements in conditions enabling the security of their systems and/or 
+      //	data to be ensured and,  more generally, to use and operate it in the 
+      //	same conditions as regards security. 
+      //	The fact that you are presently reading this means that you have had
+      //		knowledge of the CeCILL-C license and that you accept its terms.
+      //*****************************************************************************
+      Procédure MyWindow()
+      // Application Object
+      myApplication is Opc.Ua.Configuration.ApplicationInstance dynamic
+      myApplication	 = new ApplicationInstance
+      // Configuration object
+      myConfiguration is Opc.Ua.ApplicationConfiguration dynamic
+      myConfiguration = myApplication.ApplicationConfiguration
+      // Session Object
+      mySession is Opc.Ua.Client.Session dynamic
+      // Bool indicated the connected State
+      bConnected is boolean
+      bConnected=False	
+      // Endpointconfiguration Object
+      myEndpointConfiguration is Opc.Ua.Endpointconfiguration dynamic
+      // EndpointDescription Object
+      myEndpointDescription is Opc.Ua.EndpointDescription
+      // Subscription
+      mySubscription is Opc.Ua.Client.Subscription dynamic
+      
+      
+      GR_Connected..Grayed = True
+   -
+     code : |1-
+      
+      // Initialization
+      OPCUAInitialize()
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     code : |1+
+      
+      
+     type : 2
+  procedures :
+   -
+     name : certificateValidation
+     internal_properties : CAAAAAgAAAD7ScdUk60hwG+/CYvfrroAcfABjB96FDGCFhLfFXrGWNFDKQBPbmEmdVFyQNxwHVQwiFzY3+2/y5TgzS15pzkSbQi2PMbIUcDLPQjyW9TlN0cYhTIgHekZwEnlPgIpPsbhntdeiR4zPGvlbvpyUjp+6trokhoBMbaWajwpv7H6Uqjtd93QwmNrZMNdLhmRmPK3f9j49SZh6bfvig8ZcJn6btyu1+XFIdLOZctuYj66z+/EaA==
+     procedure_id : 2122932150363314264
+     type_code : 14
+     code : |1+
+      // Summary: Certificate
+      // Syntax:
+      //certificateValidation (<src> is .NET object, <args> is .NET object)
+      //
+      // Parameters:
+      //	src (.NET object): Validator
+      //	args (.NET object): Arguments
+      // 
+      Procédure certificateValidation(src is Opc.Ua.CertificateValidator<useful>, args is Opc.Ua.CertificateValidationEventArgs)
+      
+      args.Accept = True
+     type : 458752
+   -
+     name : keepAlive
+     internal_properties : CAAAAAgAAADRrz00ru94ksEvYLdV+TdSwxmAdkUKpj3dm4IWktUbOQzdZ2qQNCCYzFEhYml8PK5PODOi0k71Q9QAPotWYRUw09v70541mIIgyqQfUx+nB41zSZ5w+Q2vqK1fKYjQumv2jv/xO9G0STP1ZEWgw5yVwWYSQ5Zy7GnEggK2W1h+DzlvSUS+s476MjkN7bWi0nFuxXQdlfiA7uaQPjD3U3IhUU4ZpYof65oWPIYza+9OJCw4
+     procedure_id : 2122932150363379800
+     type_code : 14
+     code : |1-
+      // Summary: Connection maintenance
+      // Syntax:
+      //keepAlive (<src> is .NET object, <args> is .NET object)
+      //
+      // Parameters:
+      //	src (.NET object): <specify the role of src>
+      //	args (.NET object): <specify the role of args>
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      Procédure keepAlive(src is Session <useful>, args is KeepAliveEventArgs <useful>)
+      
+      //trace("Delegate: KeepAlive" )
+     type : 458752
+   -
+     name : sessionClosing
+     internal_properties : CAAAAAgAAAD09JTg//ghyS2eoVwYm57/cT8gyETmFKqoE6DLrRgeeHFVdrsGAuhbjnXOT2wqpnR7rrRGB+2Yx2LlGKoa6FJSyAFsIm46/Ci5GRG2lsVT4UDypfaLsdniimmpXCAruFYIBiqZEDCz8wcFp7UxBwtkbb4372uBK1c2MIOuAP6TeLiK62Ewnc6xr8LhcFdV2L1du9HFVnpXcj+fiaDu5ZYGqP6bKLd4jHtMAbJNQJIB0wKy3jNY6+WHBxFjz1JOF/xv
+     procedure_id : 2122932150363445336
+     type_code : 14
+     code : |1-
+      // Summary: Close session
+      // Syntax:
+      //sessionClosing (<src> is .NET object, <args> is .NET object)
+      //
+      // Parameters:
+      //	src (.NET object): Source
+      //	args (.NET object): Arguments
+      //
+      Procédure sessionClosing(src is 'Object' <useful>, args is EventArgs <useful>)
+      
+      //trace("Args=",args.ToString()	)
+     type : 458752
+   -
+     name : createOpcUaSession
+     internal_properties : CAAAAAgAAACu+/0Ijo5n6WtoAKNuWZPLuwayvyFtKwyiAMJAuKklolrcHTol7aGrp/AY3i9eTkvP+cFJEGO+/TrywfLCyyOB2gmZQOodXGiscHk4vJpXt1RtM1/MvlCgNqdhJ+8LC9mPcmNNhTfYks61sHG1aB7Gs/aetzpcbM0skb4dMOgE+U3hgSPRoKRbTE60xIM8mGYls1uSxt93lg==
+     procedure_id : 2122932150363510872
+     type_code : 14
+     code : |1-
+      // Summary: OPCUA session
+      //// Automatic error processing: run CASE ERROR code block
+      //
+      // Automatic process of exceptions:   run CASE EXCEPTION:
+      //
+      
+      Procédure createOpcUaSession(sUser is string = "", sPassword is string = "")
+      
+      // Connection identity
+      IdUtilisateur is UserIdentity dynamic
+      
+      myConfiguredEndpoint is ConfiguredEndpoint(Null,myEndpointDescription,myEndpointConfiguration)
+      
+      // Authenticated connection?
+      if sUser <> "" then
+      	IdUtilisateur = new UserIdentity(sUser,sPassword)
+      else
+      	IdUtilisateur = Null
+      end
+      
+      // Create session
+      mySession = Session.Create(myApplication.ApplicationConfiguration,
+      myConfiguredEndpoint,
+      False,
+      True,
+      "MySession" ,
+      60000,
+      IdUtilisateur,
+      Null)
+      
+      btCreateSession="Disconnect"		
+      bConnected =True			
+      
+      // Callback configuration
+      mySession.add_KeepAlive(DotNetDelegate("keepAlive","KeepAliveEventHandler"))
+      mySession.add_SessionClosing(DotNetDelegate("sessionClosing","EventHandler"))
+      
+      
+      result True
+      
+      
+      case Error:
+      result False
+      case exception:
+      Trace(ExceptionInfo)
+      result False
+     type : 458752
+   -
+     name : closeOpcUaSession
+     procedure_id : 2122932150363576408
+     type_code : 14
+     code : |1+
+      // Summary: Close session
+      // 
+      Procédure closeOpcUaSession()
+      
+      // Closing
+      mySession.Close(5000)
+      
+      btCreateSession="Connection"
+      bConnected=False
+     type : 458752
+   -
+     name : CreateSubscription
+     procedure_id : 2122932150363641944
+     type_code : 14
+     code : |1+
+      // Summary: Subscription
+      // Syntax:
+      // CreateSubscription ()
+      //
+      Procédure CreateSubscription()
+      
+      if mySubscription=Null then
+      	mySubscription	=new Subscription
+      	mySubscription.PublishingInterval=1000
+      	mySubscription.PublishingEnabled=True
+      	
+      	// Add subscription
+      	mySession.AddSubscription(mySubscription)
+      	// Creation
+      	mySubscription.Create()
+      end
+     type : 458752
+   -
+     name : monitoredItemNotification
+     internal_properties : CAAAAAgAAADE4XjHYopXfjCQL1uqts3WSbjSmZ4o9Yc2bNfXX9wiDJIuFrY6FDCr+nNOZyiXnS8NOiowqnCjKqTAXFCwYuxwUx7jmVY4EkKNEvo/O2B5P17cOikGKN+YZ9pii4TYnOWRJGYtsferAKGKxamSxY5/mlQ/hz7mqWoANyMiBaKqt5iOmXYkQGvqUcCnUE16UIQkvn/vuWj/RaThQeEecPTSpWBJPg==
+     procedure_id : 2122932150363707480
+     type_code : 14
+     code : |1-
+      // Summary: Callback called by the .Net assembly. It propagates changes from the server
+      // Syntax:
+      //monitoredItemNotification (<myMonitoredItem> is .NET object, <e> is .NET object)
+      //
+      // Parameters:
+      //	myMonitoredItem (.NET object) : <specify the role of myMonitoredItem>
+      //	e (.NET object) : <specify the role of e>
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      Procédure monitoredItemNotification(myMonitoredItem is MonitoredItem , e is MonitoredItemNotificationEventArgs <useful>)
+      szDisplayName is string
+      szValue is string
+      szStatusCode is string
+      szTimeStampSource is string
+      timeStampSource is System.DateTime(0)
+      myTypeInfo is string
+      
+      myMonitoredItemNotification is Opc.Ua.MonitoredItemNotification
+      
+      // Last value
+      myMonitoredItemNotification<-myMonitoredItem.LastValue
+      // Timestamp
+      timeStampSource<-myMonitoredItemNotification.Value.SourceTimestamp
+      
+      if myMonitoredItemNotification<>Null then
+      	myTypeInfo=myMonitoredItemNotification.Value.WrappedValue.TypeInfo.ToString()
+      	if (myTypeInfo	="DateTime") then
+      		sysValue is System.DateTime(0)
+      		sysValue<-myMonitoredItemNotification.Value.Value
+      		szValue=sysValue.ToString()
+      	else
+      		szValue=myMonitoredItemNotification.Value.Value	
+      	end
+      	szDisplayName=myMonitoredItem.DisplayName
+      	szStatusCode=myMonitoredItemNotification.Value.StatusCode.ToString()
+      	
+      	szTimeStampSource=timeStampSource.ToString()
+      	// Update
+      	UpdateMonitoredItemInList(szDisplayName,szValue,szStatusCode,szTimeStampSource)
+      end
+     type : 458752
+   -
+     name : CreateMonitoredItem
+     procedure_id : 2122932150363773016
+     type_code : 14
+     code : |1+
+      // Summary: Creation of a subscriber object
+      // Syntax:
+      //CreateMonitoredItem (<myNodeId> is .NET object)
+      //
+      // Parameters:
+      //	myNodeId (.NET object): The NodeID
+      // 
+      Procédure CreateMonitoredItem(myNodeId is NodeId)
+      
+      myMonitoredItem is Opc.Ua.Client.MonitoredItem()
+      
+      myMonitoredItem.NodeClass=NodeClass.Variable
+      myMonitoredItem.DisplayName=txbNodeId
+      myMonitoredItem.StartNodeId=myNodeId
+      myMonitoredItem.AttributeId=Attributes.Value
+      myMonitoredItem.SamplingInterval=1000
+      myMonitoredItem.QueueSize=10
+      myMonitoredItem.DiscardOldest=True
+      myMonitoredItem.add_Notification(DotNetDelegate("monitoredItemNotification","MonitoredItemNotificationEventHandler"))
+      
+      // Add element
+      mySubscription.AddItem(myMonitoredItem)
+      
+      // Applying modifications
+      mySubscription.ApplyChanges()
+      
+      // Add to the list
+      AddMonitoredItemInList(myMonitoredItem)
+     type : 458752
+   -
+     name : AddMonitoredItemInList
+     procedure_id : 2122932150363838552
+     type_code : 14
+     code : |1+
+      // Summary: Adds an object to subscribe
+      // Syntax:
+      //AddMonitoredItemInList (<myMonitoredItem> is .NET object)
+      //
+      // Parameters:
+      //	myMonitoredItem (.NET object): The object
+      //
+      Procédure AddMonitoredItemInList(myMonitoredItem is Opc.Ua.Client.MonitoredItem)
+      
+      sRow is string
+      szDisplayName is string
+      
+      if myMonitoredItem.DisplayName <> Null then
+      	szDisplayName=myMonitoredItem.DisplayName
+      	sRow=myMonitoredItem.DisplayName+TAB+"*"+TAB+"BadWaitingForInitialValue"+TAB+"01/01/1601"+TAB+"01/01/1601"
+      	
+      	// Add into the table
+      	TableAdd(MonitoredItemTable,sRow)
+      end
+     type : 458752
+   -
+     name : UpdateMonitoredItemInList
+     internal_properties : CAAAAAgAAABQdU3cVurXkvyMg/dKGqXe7dR5pZlgpXfWhEcf/wzKxFJ+3paKdMjzguO2t0Bfzb+VUrrIAliDusQYnGig8nTY855bOVaYWrqFMrJ/85i5fzYkll0y1IP0Q76ub+i8UAkNsJIx/SPv/H2+kf3myaIzVrDLe0qSXZZM+w8WaUb+C3TaZSpQHE+WDTRD9HGepLM3lPGpF9pxN9q7A/sUQoJMaOzdqg==
+     procedure_id : 2122932150363904088
+     type_code : 14
+     code : |1+
+      // Summary: Update monitored objects
+      // Syntax:
+      //UpdateMonitoredItemInList (<szDisplayName> is string, <szValue> is string, <szStatusCode> is string, <szTimeStampSource> is string)
+      //
+      // Parameters:
+      //	szDisplayName (ANSI string): Name
+      //	szValue (ANSI string): Value
+      //	szStatusCode (ANSI string): Status code
+      //	szTimeStampSource (ANSI string): Timestamp of source
+      
+      //	szTimeStampServer (ANSI string): Timestamp of server
+      Procédure UpdateMonitoredItemInList(szDisplayName is string,szValue is string,szStatusCode is string,szTimeStampSource is string)
+      sRow is string
+      subscript is int
+      
+      sRow=szDisplayName+TAB+szValue+TAB+szStatusCode+TAB+szTimeStampSource
+      
+      // Search row
+      subscript=TableSeek(DisplayName,szDisplayName)
+      
+      // Modification in the table
+      TableModifyLine(MonitoredItemTable,subscript,szDisplayName,szValue,szStatusCode,szTimeStampSource)
+     type : 458752
+   -
+     name : WriteValueToNode
+     internal_properties : CAAAAAgAAADL64JeVcIALWWL5i99tquJD3aLhgPJ0JUapxp/v1CPV/g94zUO7JOHkm4iYUSgSQ0rgEkCJGHQPP3yfR5nPVEukaaQYxaLgOJtSe+p0aRfHFtT80eUf/li+DGdmBOJBJZ27h1gQUXyb0Y4NdKwjtZehBBTb9Px2k/3mcdIXcja9+R5Dkcl1VxHoL63sSUWCT4CCb+MyQllBKSmmCD8iUBlV8EBgROGSQ8Eeaa75vF0EaXJhS7iLhJ8TlZVB3kr1r7XF1QrQuS4o5Cz38LvpZlCyJ0sGitnwA==
+     procedure_id : 2122932150363969624
+     type_code : 14
+     code : |1-
+      // Summary: Writes a value
+      // Syntax:
+      //[ <Result> = ] WriteValueToNode (<szNodeId> is string, <szValue> is string)
+      //
+      // Parameters:
+      //	szNodeId (ANSI string): The NODEID
+      //	szValue (ANSI string): The value
+      // Return value:
+      // 	boolean: // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //// Automatic error processing: run CASE ERROR code block
+      //
+      // Automatic process of exceptions:   run CASE EXCEPTION:
+      //
+      
+      Procédure WriteValueToNode(szNodeId is string, szValue is string)
+      
+      
+      request is RequestHeader dynamic
+      request = new RequestHeader
+      myNodesToWrite is Opc.Ua.WriteValueCollection
+      myWriteValue is Opc.Ua.WriteValue
+      myResults is StatusCodeCollection dynamic
+      myResults = new StatusCodeCollection
+      myDiagsInfo is Opc.Ua.DiagnosticInfoCollection dynamic
+      myDiagsInfo = new DiagnosticInfoCollection
+      myNodeId is NodeId(szNodeId)
+      szBuiltInType is string
+      
+      myWriteValue.NodeId=myNodeId
+      myWriteValue.AttributeId=Attributes.Value
+      
+      // Type
+      GetBuiltInType(myNodeId,szBuiltInType)
+      
+      switch szBuiltInType
+      	case "i=1"
+      		//  bool OK
+      		uValue is boolean=(szValue)
+      		myWriteValue.Value.set_Value(uValue)
+      	case "i=2"
+      		//  sbyte
+      		uValue is 1-byte unsigned int=(szValue)
+      		myWriteValue.Value.set_Value(uValue)
+      	case "i=3"
+      		//  byte
+      		uValue is int on 1 byte=(szValue)
+      		sType is int =TypeVar(uValue)
+      		typeInf is Opc.Ua.TypeInfo(BuiltInType.Byte,-1) 
+      		
+      		myVariant is Opc.Ua.Variant(uValue,typeInf)
+      		
+      		myWriteValue.Value.Value=myVariant
+      	case "i=4"
+      		// int 16
+      		uValue is 2-byte int=(szValue)
+      		myWriteValue.Value.set_Value(uValue)
+      	case "i=5"
+      		// uint 16
+      		uValue is 2-byte unsigned int=(szValue)
+      		myWriteValue.Value.set_Value(uValue)
+      	case "i=6"
+      		// int 32 OK
+      		uValue is 4-byte int=(szValue)
+      		myWriteValue.Value.set_Value(uValue)
+      	case "i=7"
+      		// uint 32 OK 
+      		uValue is 4-byte unsigned int=(szValue)
+      		myWriteValue.Value.set_Value(uValue)
+      	case "i=10"
+      		// float
+      		uValue is real=(szValue)
+      		myWriteValue.Value.set_Value(uValue)
+      	case "i=11"
+      		// double OK
+      		uValue is real =(szValue)
+      		myVariant is Opc.Ua.Variant(uValue)
+      		myWriteValue.Value.set_Value(myVariant)
+      	case "i=12"
+      		// String OK
+      		myVariant is Opc.Ua.Variant(szValue)
+      		myWriteValue.Value.set_Value(myVariant)
+      	other case
+      		result False
+      end
+      
+      
+      myNodesToWrite.add(myWriteValue)
+      // Write
+      mySession.Write(request,myNodesToWrite,myResults,myDiagsInfo)
+      myStatusCode is Opc.Ua.StatusCode(0)
+      szStatusCode is string
+      myStatusCode<-myResults.get_Item(0)
+      szStatusCode=myStatusCode.ToString()
+      
+      result True
+      
+      
+      case Error:
+      result False
+      case exception:
+      result False
+     type : 458752
+   -
+     name : GetBuiltInType
+     internal_properties : CAAAAAgAAADyfT4YHP72ORS0a3mGCAOqpRI+Agbl0TbeMABJmT6iN0CdC4rJGKSZHnYyja5m1V6cLOw1Rt71U5hkbd5URPy91yh6Umxqn7pWHjqggrOcjwyRf7eT9Jmmch+6NAnqtNn5KE+Feg/bhLbB72CBufTdkoAGQ812ESbZxgVxFu6+r4u17W8c/0470f5g6C1pPFiazG8OAYo=
+     procedure_id : 2122932150364035160
+     type_code : 14
+     code : |1-
+      // Summary: Type
+      // Syntax:
+      //GetBuiltInType (<myNodeId> is .NET object, <szBuiltInType> is string)
+      //
+      // Parameters:
+      //	myNodeId (.NET object): NODEID
+      //	szBuiltInType (ANSI string): <specify the role of uiBuiltInType>
+      // Return value:
+      // 	None
+      //
+      // Example:
+      // Indicate an example.
+      //
+      Procédure GetBuiltInType(myNodeId is NodeId, szBuiltInType is string)
+      
+      request is RequestHeader dynamic
+      request = new RequestHeader
+      
+      maxAge is int
+      maxAge = 1000
+      timeStampToReturn is TimestampsToReturn dynamic
+      timeStampToReturn= TimestampsToReturn.Both
+      nodesToRead is ReadValueIdCollection dynamic
+      nodesToRead = new ReadValueIdCollection
+      myResult is DataValueCollection dynamic
+      myResult = new DataValueCollection
+      diagnosticsInfo is DiagnosticInfoCollection dynamic
+      diagnosticsInfo = new DiagnosticInfoCollection
+      nodetoRead is ReadValueId
+      nodetoRead.NodeId=myNodeId
+      nodetoRead.AttributeId=Attributes.DataType
+      nodesToRead.Add(nodetoRead)
+      
+      // Read on the server
+      mySession.Read(request,maxAge,timeStampToReturn,nodesToRead,myResult,diagnosticsInfo)
+      
+      // Process the result
+      resultSize is int
+      resultSize=myResult.get_Count()
+      if resultSize>0 then
+      	ii is int
+      	myValue is Opc.Ua.DataValue
+      	for ii=0 _to_ resultSize-1
+      		myValue<-myResult.get_Item(ii)
+      		if (myValue<>Null) then
+      			myint is int=1
+      			if myValue.WrappedValue<>Null then
+      				szBuiltInType = myValue.Value.ToString()
+      			end				
+      		end
+      	end
+      end
+     type : 458752
+   -
+     name : GetUAEndpoints
+     internal_properties : CAAAAAgAAAAKyeNlGaw7I5IYwCsPRC1G8NZ2weCnQ2G5BjtmnWSK2lIIFEW66WZkBDZfz42isCLwVnPkm7665nL2LpDbntUbAjwtEdhg8LXaNe/b9fRAVc+s1/wgQuzKoFGJx593rXv14P8xqSv4dECntmvPPsAOHRhWH8JkcD18UegzHh5OT8+j60knqqofJpgAuG9wlH7dY/MewCVRsHkGjCawBMkN9ypVB9bVZ/Y=
+     procedure_id : 2122932150364100696
+     type_code : 14
+     code : |1-
+      // Summary: Connection access points
+      // 
+      //// Automatic error processing: run CASE ERROR code block
+      //
+      // Automatic process of exceptions:   run CASE EXCEPTION:
+      //
+      
+      Procédure GetUAEndpoints() : boolean
+      server_url is string
+      myEndpoints is EndpointDescriptionCollection dynamic
+      myUri is System.Uri  dynamic
+      myClient is Opc.Ua.DiscoveryClient dynamic 
+      
+      // Creates the configuration object from the configuration of the application
+      myEndpointConfiguration = EndpointConfiguration::Create(myApplication.ApplicationConfiguration)
+      
+      // Stores the OPC UA server connection url
+      server_url = txbServerUrl //	 "opc.tcp://127.0.0.1:16664/OpenOpcUaCoreServer";
+      
+      myEndpoints = new EndpointDescriptionCollection
+      
+      
+      // Creates a URI object from the OPC UA server URI
+      myUri = new  System.Uri(server_url) 
+      
+      // Creates a client from the URL and configuration
+      myClient = DiscoveryClient.Create(myUri, myEndpointConfiguration)
+      // Gets its entry points
+      myEndpoints = myClient.GetEndpoints(Null)
+      
+      
+      // Select the first point in the list
+      // It works because we are not looking for a secure entry point
+      // The first one is always accessible even without security
+      myEndpointDescription <- myEndpoints.get_Item(0)
+      
+      result True
+      
+      case Error:
+      result False
+      case exception:
+      result False
+     type : 458752
+   -
+     name : OPCUAInitialize
+     internal_properties : CAAAAAgAAACn8E1OH5IocS2HT/uhHGu39IeZnNxyG53LKdTpmaYCvEP7pnYSpFu68EUgBuNQYrTfa+XMwV+ApEmdQ3pTQtTQd++7KGFWGGwWvhsx9XLugDPtQxMo04Gvw3GSd+7m1fOAYGEfIEzpfocslaf0M8FzTf675OnJeOOTGJjPzfK3b1IFNjz4
+     procedure_id : 2122932150364166232
+     type_code : 14
+     code : |1+
+      // Summary: Initialization
+      //// Automatic procedure:
+      // The procedure is run manually, during a call in the code
+      // It will be run in a thread (without having to call ThreadExecute), without using HFSQL
+      // 
+      
+      Procédure OPCUAInitialize()
+      
+      // Initialization
+      myApplication.ApplicationType=1
+      myApplication.ConfigSectionName="UASample01"
+      myApplication.LoadApplicationConfiguration(False)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1b856a160090a748
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      en-GB : "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\r\n<ApplicationConfiguration\r\n  xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n  xmlns:ua=\"http://opcfoundation.org/UA/2008/02/Types.xsd\"\r\n  xmlns=\"http://opcfoundation.org/UA/SDK/Configuration.xsd\">\r\n  <ApplicationName>UASampleClientStep01</ApplicationName>\r\n  <ApplicationUri>urn:localhost:UASampleClient:Step01</ApplicationUri>\r\n  <ProductUri>uri:opcfoundation.org:UASampleClient:Step01</ProductUri>\r\n  <ApplicationType>Client_1</ApplicationType>\r\n\r\n  <SecurityConfiguration>\r\n\r\n    <!-- Where the application instance certificate is stored (MachineDefault) -->\r\n    <ApplicationCertificate>\r\n      <StoreType>Directory</StoreType>\r\n      <StorePath>%CommonApplicationData%\\OPC Foundation\\CertificateStores\\MachineDefault</StorePath>\r\n      <SubjectName>UASampleClientStep01</SubjectName>\r\n    </ApplicationCertificate>\r\n\r\n    <!-- Where the trust list is stored (UA Applications) -->\r\n    <TrustedPeerCertificates>\r\n      <StoreType>Directory</StoreType>\r\n      <StorePath>%CommonApplicationData%\\OPC Foundation\\CertificateStores\\UA Applications</StorePath>\r\n    </TrustedPeerCertificates>\r\n\r\n    <!-- Where the issuer certificate are stored (certificate authorities) -->\r\n    <TrustedIssuerCertificates>\r\n      <StoreType>Directory</StoreType>\r\n      <StorePath>%CommonApplicationData%\\OPC Foundation\\CertificateStores\\UA Certificate Authorities</StorePath>\r\n    </TrustedIssuerCertificates>\r\n\r\n    <!-- The directory used to store invalid certficates for later review by the administrator. -->\r\n    <RejectedCertificateStore>\r\n      <StoreType>Directory</StoreType>\r\n      <StorePath>%CommonApplicationData%\\OPC Foundation\\CertificateStores\\RejectedCertificates</StorePath>\r\n    </RejectedCertificateStore>\r\n  </SecurityConfiguration>\r\n\r\n  <ClientConfiguration>\r\n    <DefaultSessionTimeout>60000</DefaultSessionTimeout>\r\n    <WellKnownDiscoveryUrls>\r\n      <ua:String>opc.tcp://{0}:4840</ua:String>\r\n      <ua:String>http://{0}:52601/UADiscovery</ua:String>\r\n      <ua:String>http://{0}/UADiscovery/Default.svc</ua:String>\r\n    </WellKnownDiscoveryUrls>\r\n    <DiscoveryServers></DiscoveryServers>\r\n    <EndpointCacheFilePath>UASampleClientStep01.Endpoints.xml</EndpointCacheFilePath>\r\n    <MinSubscriptionLifetime>10000</MinSubscriptionLifetime>\r\n  </ClientConfiguration>\r\n\r\n\r\n</ApplicationConfiguration>"
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

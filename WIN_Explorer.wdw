@@ -1,0 +1,598 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Explorer
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : Explorer
+ subtype : 0
+window :
+ name : WIN_Explorer
+ identifier : 0x2d762b8a04bb53d3
+ internal_properties : CAAAAAgAAAC8a8VxCelrkxXjcNZwAxbF6UdIud0Ij3tWrkQHQn6A8CbyUMnjCNVCYNyJpKT255N7/4+82JUSGRbl+5gJ1KewWtfD7G3KUc6Mcw2Dfbbp1dcrIMoq14MelUvHZYXY1fcVWpOaw1IB/lpZAgvDfloL/iiZYXeXQoknYo9cX/W8s1mSrMopiIHHNYINjeVpEuJVC7CZ+ZxmkBgWQweEamr/xAKDKZZvctRqq0RDEwC0ICcicAMrPSChSMeIyuAcKtwijKfNjZu84FYtBTnogcMg51OsTE9vvDbHEc4/dSd6oJJObXUNSZ5FdiwmZ6VM8Kc9Mae2cpeZmfKy9H3KMk9df8cGbkQKaJHb7wG3FfF/B1W4MwIzSV0dsOZn1cn8TTcas99NmJZcaS9buX2DFq51RhERnIXv6B3MFymWzd6Ld3iTWWk5POfXJB+3umdPxRGiMF3Wkn/7c6A+oK4Dhan1+uyzQnjUQmMC1oK0WrKsYLusJ0J/aXZwJSw9PM8NmlaNeB3tSKs62vi5N+ZNf8DSItdcWz89iOYJKC/BuB8xm40JF773MXSjHnkTKSNZXSDmJeSHMMWOoKFD5FreKAsI7CnubJjyLn+0JFExnffwmvDV2eQh2SR+t7qih0yrfxh7b+QWJDsoVrQx76wUDXTdSA/bKbknlV/8H4iw2z5eAHy7xhlc3rygbj+BF1hRPcIrGMoMFaf4V9N46+arZ7gYwzAeH5YqqKuIjjbdFUjTSeKcLPrt12k+4x7iEKVdQ5u/WQp6h+rDs6rP+YN/sYvVKNpGnvbz+K06U4dPPlM+wejeOT4=
+ properties :
+  width : 813
+  height : 528
+  widthClient : 811
+  heightClient : 496
+ controls :
+  -
+    name : AttributeList
+    identifier : 0x2d762b8a04bc53d3
+    internal_properties : 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
+    properties :
+     x : 262
+     y : 46
+     width : 538
+     height : 436
+    columns :
+     -
+       name : Attribut
+       identifier : 0x2d762b8a04bd53d3
+       internal_properties : CAAAAAgAAABnt01VRL5QXrRbVvn0wzN7TUXFqQc0uM/0sUpertEScYDfnbvPiTO1w8+qQ/Tl/kd24tIZKA0Kg/xNFHEiJNpzvODeydpp5Z27M+xC6P5ebZ0pXlXAmxltirfbf/RcWxOcMrtwz/kUqn1yUpj59nh7xKvX1gEZSanvT4HUEGSIvlM5aa0Z35fX21J1s6B33dK9UGfJ+9ErAX234smkHlqAw4OkSnMAoUY3z3k2NyV7kWSaOJ7BoDfRmYE=
+       type : 2
+       content :
+        internal_properties : CAAAAAgAAAAZ2f+ACr5Ly81tnvlHLBOynSLFg1sdcun/TbfmmyHjibJqK3aowMTkNgPwDjqVWgHg9dmJn5PbYgX84S7x6lotKDYz2cXqzxvm4PGOQtpx4LrNzJkxMSDa5Q4w23FANxxyMihgMIsQAxGzeNsd5QE/jGxodsZ2O+VbQq5gKZtTPdcB98osQYS9HHzosmyKehCVuQoR/UUm1L7Ii54glcKIlJVSpT5Um8q0zvzOdFk7jpGrUUaXOaQ5rahwYAiuXKtcLSBLvZsioly6ux+u2XeWzequCySFnI0Bbh0ZPIJ7lp6X3p0Tjqqu7PmAun7H3bJ6PuCXsuHPouOrbJXyViXSiQ2QeqDCkuBCMX3UfsFQGIyEmA9Xh7AcggdNJrph0bC1sTjdXcoyKcjm+Cf7Hq3Z5qEMl4KdUA33PG5PI6G7obuQWZUXhF/My//RwZA2dIKB3EUW/7JxGSbmYLpeDVrw92jsj/y2DOEL1v3ef/dxrg90AR9yEBiLpTPutJREVNXLzokcHBPxtukftkitbCucRk4rhgz5lnXxucSoBpjhKPB7gXSkzuIuaTslK58qs5rikn1I3GYMF3xVSlpx0lwFu9q3NyxtAQ5pTYai0OaYlc0AjuJ+ABkvls7Lcx5Obwr89vVdFwoZd+iIEomj/QeY83CF8wtV7lUdW3x6mLYjinXQ5CPvq2VJ3gD9tEHGII8p9WL0yTi9x/G1vSpPjD7N69LNn6L0vRLzhGSfkpQ/6Q4GXzr2JAwjRTxy+cH6IK2x59NSpqsQMiMr2sZvGq2M18RnoWv1fGGUX1uIhvDlLwe4FSjimB4jtKRuRqArFJuzHC7v/g2Z45Zqu0W2CS9+h8VNwrYR57pF3d63sp/emeN6UqvMsBgl7RWBKPfKHUtSbK9v9YbNg7bR1H4plqmwYQGC09d9gxObxEiGhj4FsRAl6b2513GguTRirryFmuTVG/a6aI3PGKd98sZi
+        type : 2
+       code_elements :
+        internal_properties : CAAAAAgAAACZMDzp8ntCdG8YTzmuH4174WBQz6n6f0OH/Y4L5lSMnekcmSXDP1fxoaiT0hBVFQMvqFjNwFhGW0p+HGSxG1bV
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+     -
+       name : Value
+       identifier : 0x2d762b8a04be53d3
+       internal_properties : CAAAAAgAAAAilmjAnQiW3pRyZ75nCVzBqY5fIjm68vxofSHlEbLGglajUso+mK0Y6B74EMilJu4btWTfMWWggExIIcl9wiKCn7/73kP1BjnjayHik6C/FciBX86gP2uLtq9ZoEew6BxT7kdckK7nox9DquJvMQ53wsAuhzdcGApvtB+40juQ8OfQJHlu/VUrgPj5+5i0XrA8F57SdsULDhxIp1ghTAuO/UX0W8ZIEaKepcPuPt1OmVbBvG1dRg==
+       type : 2
+       content :
+        internal_properties : CAAAAAgAAAAZ2f+ACr5Ly81tnvlHLBOynSLFg1sdcun/TbfmmyHjibJqK3aowMTkNgPwDjqVWgHg9dmJn5PbYgX84S7x6lotKDYz2cXqzxvm4PGOQtpx4LrNzJkxMSDa5Q4w23FANxxyMihgMIsQAxGzeNsd5QE/jGxodsZ2O+VbQq5gKZtTPdcB98osQYS9HHzosmyKehCVuQoR/UUm1L7Ii54glcKIlJVSpT5Um8q0zvzOdFk7jpGrUUaXOaQ5rahwYAiuXKtcLSBLvZsioly6ux+u2XeWzequCySFnI0Bbh0ZPIJ7lp6X3p0Tjqqu7PmAun7H3bJ6PuCXsuHPouOrbJXyViXSiQ2QeqDCkuBCMX3UfsFQGIyEmA9Xh7AcggdNJrph0bC1sTjdXcoyKcjm+Cf7Hq3Z5qEMl4KdUA33PG5PI6G7obuQWZUXhF/My//RwZA2dIKB3EUW/7JxGSbmYLpeDVrw92jsj/y2DOEL1v3ef/dxrg90AR9yEBiLpTPutJREVNXLzokcHBPxtukftkitbCucRk4rhgz5lnXxucSoBpjhKPB7gXSkzuIuaTslK58qs5rikn1I3GYMF3xVSlpx0lwFu9q3NyxtAQ5pTYai0OaYlc0AjuJ+ABkvls7Lcx5Obwr89vVdFwoZd+iIEomj/QeY83CF8wtV7lUdW3x6mLYjinXQ5CPvq2VJ3gD9tEHGII8p9WL0yTi9x/G1vSpPjD7N69LNn6L0vRLzhGSfkpQ/6Q4GXzr2JAwjRTxy+cH6IK2x59NSpqsQMiMr2sZvGq2M18RnoWv1fGGUX1uIhvDlLwe4FSjimB4jtKRuRqArFJuzHC7v/g2Z45Zqu0W2CS9+h8VNwrYR57pF3d63sp/emeN6UqvMsBgl7RWBKPfKHUtSbK9v9YbNg7bR1H4plqmwYQGC09d9gxObxEiGhj4FsRAl6b2513GguTRirryFmuTVG/a6aI3PGKd98sZi
+        type : 2
+       code_elements :
+        internal_properties : CAAAAAgAAABvpl4Ys6eUml1yxyeZvAeCoxF7H8DXAXLLjktUzRKAaqhnkrP7AH9G0umN7/TM5xkVwgdcc0JDAThdeYeXkRg+9dRzWwIcEkcO5iJr34kw0w==
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+    type : 9
+    controls : []
+    code_elements :
+     type_code : 9
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        type : 263
+        enabled : false
+      -
+        type : 262
+        enabled : false
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+      -
+        type : 224
+        enabled : false
+  -
+    name : addressSpaceTree
+    identifier : 0x2d762b8a04bf53d3
+    internal_properties : CAAAAAgAAAB4HuU+3wr/CwnMyWAWRS052lNlCCyoBhXmPFKFl1FB2ehFs4pC0uU2Q+l/B/uvNucwENDZoNin2tAn4cfQg7lFLR6WXpnn2kyyRyR6BA4kcTHL5dmUkITsWDc6NhcHW1T/1xJnGmibe0OtUlxNuzpN6n5lM+7yVtQOaTphBvZ6IMdytkEu8Ww+UBdmfowxjtrmBIy23LHlQlT5nnOXQuQHau2ElzZE89csZOso9e7fJmzJsS25AXHvxY04GMs1fysWIErStC5gY/Bi2zV33Ep079qJ5LAqmhRBmXPewrlnBKCCfIGGLOB4jlmWIe1mhIlgMFyH72U1TFjZKqI+eJSIHLs3RMpwj69pjW9Ey6hj0+EEwcysSnYcfjNRxOERgJDCb3+cpXtd3+ffFArvhh9X3sLl1+yVE97kqIOFy8yPX0ikjmc0PugL/3Ue3ErdZ7a2i0m+V7TYRpTUi78vi9J3RgU4OrTBQ3rsHT5+LSXszSRLNAIFtLyE+XiObuv5jtMZeXj+4GNEkpeLjePz8wJtig0vrDOfgGxIIP9tspN/gYbIWS5+zm4bVyYOVT3xryp6l1M8JdVxJ1hD7o3VDx2sH1zcw/4F+x9mdfA45Gwmr4U+400EkD4QqGotWFhes0o66Cd6P50hSU7ZMntlvyXZ+NF4xjVzQ0jArx47NFgbJJ/puND9e9qXP7GEJDx6SKhFwHfkAmkBCKTX/4kNAIgO1T7EIQdB5JrTHuzuB8uPuZbD07EctRbWL9Vx3rfJT+2+Qu8Rz7V4dJIHVVPg7CyT/wnk06CUT/KUwRwXFpqa9XdWbu9yWMQynQj6GdAlnnqCkH7RDRAsUM8DN40AFH5DD9TN4ybduqKpWnDbVTR30ujWjW52/4R4j2373hsl7BVmdbK3ttBz56z37Q2R7mmBZMQlMqnLIoTrGYAVwpTkMXALJOGESMn81YC3wP/ApjiXhc5LetUaU87zHm2kMqYfY/PNkObhWWhEn/J9c5k5v6msi8p1yFQA5Xlf0oNlLkYrU3QlKEkVBT/5iB5jaJtZcK3+bBBKD1PWt5qNfY7xJNh+2A/HjaoDqK3hylKzRxK/9BZhY6pe2pjUh/w7SYdq9L1WTD0aTWKWGGfyihz4gT7+tnu0+bSvAZoCPmEwK8qdU60u3UO/P855Stg+YsM185z0SAjvFVqtEbtuyzKLdLzTR4Ll/JQb4oO+tNbkA0coAKuUNPqsn9PCFtlWDWsoo+HM5rD5Aed+nRFD8zXO23WynAD2YCE14l4zRG1+NA1EhAaF8prl79KKKTzKdMmo+PZm/2eF7BMU0Tmr0UTNahmkyX2mM+ReXZGxDib9efKOQzN/kgfc4Rj1XpCGp/uS/q4Rvb/Qqc2TppFWBR2F12mTr9zz2FgPJmGYz35mZygiu2gH0rBXSzQO8eJp9MJxIulhFHwweD5rkWVEZ/JSdnSJs7KUCcK9O5Qog3kMFmO9YT1Yyqrriy/2xKl51EBnGA/gkHdcaf24SZwR6mynk8pT7w==
+    properties :
+     x : 17
+     y : 46
+     width : 220
+     height : 436
+    type : 19
+    code_elements :
+     type_code : 25
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        code : |1+
+         ResNameElt is string
+         ListDeleteAll(AttributeList)			// Deletes the list of tags of variables
+         ResNameElt = TreeSelect(addressSpaceTree)	// 
+         ExpandBranch(ResNameElt)		// Call the local procedure
+        type : 18
+      -
+        type : 19
+        enabled : false
+      -
+        type : 20
+        enabled : false
+      -
+        code : |1-
+         selected is string
+         selected=addressSpaceTree.Select(False)
+        type : 33
+      -
+        internal_properties : CAAAAAgAAACitaMGtWqWiVhavHa1l9ZHBD09o1A2T9rGxswVZaLUbeY495oKO5lHlWVd0/gcSglPPPAloh+uHp7B63+xYrDNnO6sP38ReZeZP6ZIVWofQEJApp8uCA4Lmxt68yU6A2h8X0u/+qTgBTfDXFywLHjVZhGys7oFtVUAPjElnZH8hcB91lL/2dv4EhuXRn3BH3fm
+        code : |1-
+         ResNameElt is string
+         ResNumber is int
+         ChildName is string
+         bRes is boolean
+         
+         // Find the number of the row corresponding to the click
+         Row is int = TreeInfoXY (addressSpaceTree, treeLineNumber , MouseXPos(), MouseYPos())
+         // Find the branch name
+         ResNameElt = TreeInfoXY (addressSpaceTree, treeBranchName , MouseXPos(), MouseYPos())// Number of elements found in the ResNameElement node
+         ResNumber = TreeCount (addressSpaceTree,ResNameElt )
+         if ResNumber >= 1 then
+         	ChildName=TreeGiveChild(addressSpaceTree,ResNameElt,tvFirst)
+         	while ChildName<>""
+         		if ChildName = "Dummy" then
+         			bRes=TreeDelete(addressSpaceTree,ResNameElt+ TAB + "Dummy")
+         			if (not bRes) then
+         				ToastDisplay("Error deleting children")	
+         			end
+         			ExpandBranch(ResNameElt)
+         		end
+         		ChildName=TreeGiveChild(addressSpaceTree,ResNameElt,tvNext)
+         	end
+         end
+        type : 36
+      -
+        type : 17
+        enabled : false
+  -
+    name : Double_click
+    identifier : 0x2d762b8a04c053d3
+    internal_properties : CAAAAAgAAACIpn/9YI7wVf4Q1c+RDAQHlo4+7ZR7o2C8UCpIg1iK8FXv46k6bvCyN5F1HD53Bbn9571ZjhZfncy0ZMeR3dztBxc8GSEbH28N6oNEKIZdmTHo6H2o4SPPqIuDBRdWEqS10FeftJP4DwcLCyRo1dgdH1PFbIBNTclS2GtnNuY2NwHTuMaEFRHJ7iVGldSPu/J6oJ6hsVbtZPC7B0q1yFlayUHTMoEF34VFhZ6f8rFQ+FKzTYIsSQbO4DMFGT7b8LTcDXKKguDQzP8TFP1NBODjz18uHUWEdR4jVJqGK63Ik11yhThwiaNaW6USL4eyq54/Z/M1e4JNneFTcTUi4jEEn++zsdfXjT+fqEZqd7pwOc0+iIgx4tp8wB5KBZJRngLHml4SJj3+EkAed66dqejV0aKzWIfhI99kcf7TGiwDlZq4BPS7GWnj4r/RWS3ohSggJPjhSYVVDcLLnxZ+He5pd2NAxkCwwbSX0RQwY6s7Ipi0085MorcWsD6fKIc1tsAEySwcmOSvmUqitfPHxPsfHTFbT/7txRn7kQt3vwcqw1TgpSbd3Um8G6y14dUc5elFLpr5bpA4YTYUBA5d7/w0xs4c8ty8pkOhA3TULFdPdi+LJLHkRUYBkjKc/bYF0aEp0W9xCuV/3ml4ELMY7kFL0Za/ZUlZx4cXbNo1QV3MwAQJ5AWMzJJa85X0ky4vhdt791Tj+WhIeak7J10k/oNKwakevQhkLquIvTfTXNKnDopsfNXJHumKaKQ6jeAMdgP0RQhiHuEWFJ2OT+4GBnTdqb4IxJ5dGNZXiYNqg5yGzKmzVZFUCTuWzHTqlGMBhsfMpMIYfmfRyo6m4MU+S3sr3bRRDhPYqmFAYMhaMsww1LclEzbdjx/wh8AfhazD2t2KoWZ1jL1DGZOhaQ==
+    properties :
+     x : 25
+     y : -94
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         szNodeId is string
+         szNodeId=selectedNodeId.ToString()
+         
+         if szNodeId = "i=84" then
+         	Error("This node has no value.")
+         	return
+         end
+         
+         WIN_Explorer..ReturnedValue=szNodeId
+         
+         Close
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Double_click_a
+    identifier : 0x2d762b8a04c153d3
+    internal_properties : CAAAAAgAAAC8fXIR43Lm/f1ayMYpNogCm5AZjsDLC6nM2/9L1rZmcn4aq/MHb2WmIb0poAwC6HjE7m4/O1Eky/+Z28LTpQaKkDf8UdG3NN+lU8hOa3C8EzZenZ7J8unrSQkJ2qtsx0g5+3KdSnKDkbfYjwndk1JVKhgtKApygafFQLaTGsDoVx0oOblpOlm3Mle8BTLmWcme9TLZ7LDdFz9CZd8ZzolhygeektGXtbTLZlVEVlvqDOBGoAvhyylJEDl3fGhXPIZT9nUnSdS7vKBIGWTNbIC2tgdufePkCCMjgtja4vNMpj2lnoadP+L6qI6LNTdXMiveNggeBm5Dm3beLoRHFZ03rlQnI+/NIS+YnKtqdKzF2TLzDOybf1OyC76Y6WXOE7PZqQzEyxh3C3qR9L0+8KGXTAqSJzOT30kOB2p1bURNS5ahEDEamosS+7PmMYDnYPqSckpzH3hAQ1F5cc81UvY/TozLqutu0uNhTsGrGbbiQbZsfbb+o/UekXm/AiqBYR10Em1whROm4GyAJyWJGZGjtg==
+    properties :
+     x : 262
+     y : 10
+     width : 302
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : Server_tree_structure
+    identifier : 0x2d762b8a04c253d3
+    internal_properties : CAAAAAgAAABWvo9CuFzR/8IzXyA5BnjtJfv8WVT0jeX2AcskTDKaIiWg4g9z99sccc0oF88vmwq2NRODA30SiSM1KnpeDawjgRbrCmX06hMEgFtzgy0PSLPToDI2WHAr0RE8oYHk+7LT0mrX/oRKbNAayiqkGkYJI1KsT/RwKxkqIdcro36KwwQduBnDa5xGEair/40tXee9T3wGe/pHd7Smf2cpFWeZZ72QDUDQif+IvMaJE09JydjylYQo3S7sL2Nn4hl+3hv0inu+kPvZf161DMc3D7b+M9c5NsGy7z//jYHDPgJwEHK7t+XDPeOuLAHsGql4wPf/nMPzeCCs0c6H2acFTO8T7wLA+Ik/7q+gcWZTkLsFG2PtUS0dgWyYc5G9XE9/3W9GFeXdC8SsJZRsRSyE+z8PEfYzjOsfqm83F2q6J8opf+/h0+wdRlMP4KP1p7McHq2MFIpvx7k6YEmAGa5ImNPer/x4RNOU6b8LJh9PUoi98e5NQb0yU7Iv0KmKEQ==
+    properties :
+     x : 17
+     y : 10
+     width : 302
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAAAgTC++6EaI4fCgVcSFHZm7ov4p4QZRp7ymrMzM90iDCICFIWKqWDTMhiBhGlmqpXt77tsHnktEpBgvVhJ8Y30qAz0ekSbyKV36KeKOQM+lBTa9AFJqIKn4UxXdk4BTXTrGJKNAUqvokeZBW7aNq/Mw+FS+4wCzDPKINeXe1o5NRizDVSVn1XuPl68zFxxORcVFVvZTZ2W0+w0vb1ib+5IuEZ2jDjYPm37sIOM3fdUKlGjF7c3yyj6noR6Qjbehq8k4OW0dr/rt0iH+dli9iFhQ0qRjY77dWSWct2cgeLWPMbuDP3uqBRBAq9bV7r1wzg8FIQ==
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADmU4HYowuD6yAA72nMk53LjBPe5XYvJl09juOzWpsZEzeDJdx0XZ6cCjWfauqXeJduR8kAxgNuAOVhCTsWFnw9thr85gpHj04=
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADeuAHqRwzId8DXXJysc9TgC3ODcU0PC/lhdirFm+4bZImLiun79FgKm8TtoE80EIizzyoEbB/V3X3vgfQuS6HZXdBDcmoAhlwqvJdzhw0W0vh1r+EP8i1b3v92im/XT8lzZDLiPoDFbMni8UeaZ3nURvclGKYncj0t8BqWHAuvMReKkuzZIMG7FiBTAqiWBv74uaws+X0DfBuIO35+uf0qqzSINOR+FFDiFoaEIcODby3qruVRlvriHE3ix+oYehol/sLIVs0Qd2PRXQ==
+     code : |1-
+      //*****************************************************************************
+      //	  Author
+      //		©. Michel Condemine, 4CE Industry (2010-2018)
+      //	  
+      //	  Contact : michelc@4ce-industry.com - +33 467 790 737
+      //	  
+      //	This software is a computer program whose purpose is to implement 
+      //		behavior describe in the OPC UA specification.
+      //		see wwww.opcfoundation.org for more details about OPC.
+      //	This software is governed by the CeCILL-C license under French law and
+      //	abiding by the rules of distribution of free software.  You can  use, 
+      //	modify and/ or redistribute the software under the terms of the CeCILL-C
+      //	license as circulated by CEA, CNRS and INRIA at the following URL
+      //	"http://www.cecill.info". 
+      
+      //	As a counterpart to the access to the source code and  rights to copy,
+      //	modify and redistribute granted by the license, users are provided only
+      //	with a limited warranty  and the software's author,  the holder of the
+      //	economic rights,  and the successive licensors  have only  limited liability. 
+      //
+      //	In this respect, the user's attention is drawn to the risks associated
+      //	with loading,  using,  modifying and/or developing or reproducing the
+      //	software by the user in light of its specific status of free software,
+      //	that may mean  that it is complicated to manipulate,  and  that  also
+      //	therefore means  that it is reserved for developers  and  experienced
+      //	professionals having in-depth computer knowledge. Users are therefore
+      //	encouraged to load and test the software's suitability as regards their
+      //	requirements in conditions enabling the security of their systems and/or 
+      //	data to be ensured and,  more generally, to use and operate it in the 
+      //	same conditions as regards security. 
+      //	The fact that you are presently reading this means that you have had
+      //		knowledge of the CeCILL-C license and that you accept its terms.
+      //*****************************************************************************
+      Procédure MyWindow()
+      myBrowser is Opc.Ua.Client.Browser dynamic
+      myBrowser=new Browser()
+      myBrowser.Session=WIN_OPCUA.mySession
+      selectedNodeId is Opc.Ua.NodeId dynamic
+   -
+     code : |1+
+      selectedNodeId = new NodeId("i=84")
+      MyWindow..ReturnedValue = ""
+      BrowseRoot()
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     code : |1-
+      
+     type : 2
+  procedures :
+   -
+     name : BrowseRoot
+     internal_properties : CAAAAAgAAABQ21xnjM5bubT0Czlm6MPqZZJeQqZFsZY+sGDJOZ7i9wCdK0rp+MT5/rZSTY5GlZ5c7Ix15v4Vc/gkzV60pDz9V+iakgxKv1q23hpwskNsH1xBr6fjhElWIk9KxHl6hOmJWH/1Sl9L9CaxP3AxycQtovD28x0GwVYJttVBBj7Of1ulXZ/sj/5rAW4w+F057MV3j31woyg=
+     procedure_id : 2122932146068083667
+     type_code : 14
+     code : |1+
+      // Summary: Browse
+      //
+      Procédure BrowseRoot()
+      // Prepare UAVariables
+      myNodeId is NodeId("i=84")
+      myBrowseResult is ReferenceDescriptionCollection dynamic
+      myBrowseResult=myBrowser.Browse(myNodeId)
+      // Fill the treeview
+      // UA Root (i=84)
+      TreeAdd(addressSpaceTree,"Root",tvDefault,tvDefault,"")
+      myRefDescription is ReferenceDescription
+      iMax is 	int
+      iMax=myBrowseResult.get_Count()
+      if iMax>0 then
+      	for subscript = 0 _to_ iMax-1		
+      		myRefDescription<-myBrowseResult.get_Item(subscript)
+      		displayName is string
+      		displayName=myRefDescription.displayName.ToString()
+      		currentNodeId is NodeId(myRefDescription.NodeId.Identifier,myRefDescription.NodeId.NamespaceIndex)
+      		TreeAdd(addressSpaceTree,"Root"+TAB+displayName,tvDefault,tvDefault,currentNodeId.ToString(),tvLast,currentNodeId.ToString())	
+      	end 
+      end
+      
+      
+     type : 458752
+   -
+     name : ExpandBranch
+     internal_properties : CAAAAAgAAADOFvIxMppog/xp4AaJVbTuT02SF6phSFvt9njrTgr5st0chH9r8+YElt9Ya6Us+qRgx+T2+GXbW2mUjYYoVpWDrdClx0YPcoEBlSFkfjxncP4FerXBdUTPlqR41ZsSjWWxC/WOSBvludEFj7pYihSYxnbBF/ITB6vA9YcNs451P93Fe05RdcHenGKidLjrsN+n9ylERcYS0mSD6LLtNSu6i9Em/QU2f0ICFVgm99DsDT/CXiQ9kMlnNbOpnA/k+/sZNYAkVqg0sw3Dci+DsoIP+e1cy8gjmmqV8Cc496shIaAkotKIwTKqCJqfshDRJTY=
+     procedure_id : 2122932146068149203
+     type_code : 14
+     code : |1-
+      //*****************************************************************************
+      //	  Author
+      //		©. Michel Condemine, 4CE Industry (2010-2018)
+      //	  
+      //	  Contact : michelc@4ce-industry.com - +33 467 790 737
+      //	  
+      //	This software is a computer program whose purpose is to implement 
+      //		behavior describe in the OPC UA specification.
+      //		see wwww.opcfoundation.org for more details about OPC.
+      //	This software is governed by the CeCILL-C license under French law and
+      //	abiding by the rules of distribution of free software.  You can  use, 
+      //	modify and/ or redistribute the software under the terms of the CeCILL-C
+      //	license as circulated by CEA, CNRS and INRIA at the following URL
+      //	"http://www.cecill.info". 
+      
+      //	As a counterpart to the access to the source code and  rights to copy,
+      //	modify and redistribute granted by the license, users are provided only
+      //	with a limited warranty  and the software's author,  the holder of the
+      //	economic rights,  and the successive licensors  have only  limited liability. 
+      //
+      //	In this respect, the user's attention is drawn to the risks associated
+      //	with loading,  using,  modifying and/or developing or reproducing the
+      //	software by the user in light of its specific status of free software,
+      //	that may mean  that it is complicated to manipulate,  and  that  also
+      //	therefore means  that it is reserved for developers  and  experienced
+      //	professionals having in-depth computer knowledge. Users are therefore
+      //	encouraged to load and test the software's suitability as regards their
+      //	requirements in conditions enabling the security of their systems and/or 
+      //	data to be ensured and,  more generally, to use and operate it in the 
+      //	same conditions as regards security. 
+      //	The fact that you are presently reading this means that you have had
+      //		knowledge of the CeCILL-C license and that you accept its terms.
+      //*****************************************************************************
+      // Summary: Expands a branch
+      // Syntax:
+      //ExpandBranch (<parent>)
+      //
+      // Parameters:
+      // 	parent : The parent
+      //
+      Procédure ExpandBranch(parent <useful>)
+      //branches is dynamic array
+      depth is int
+      SubString is string
+      //FullItemID is string
+      i is int
+      //nNbItems is int
+      SubString=parent
+      depth = StringCount(parent,TAB)	
+      
+      // Read branches in the OPC server address space
+      sTreeID is string
+      sTreeID=TreeIdentifier(addressSpaceTree,parent)
+      if (Length(sTreeID)>0) then
+      	myNodeId is NodeId(sTreeID)
+      	ShowAttribute(sTreeID)
+      	myBrowseResult is ReferenceDescriptionCollection dynamic
+      	myBrowseResult=myBrowser.Browse(myNodeId)
+      	// Add elements read in the tree
+      	myRefDescription is ReferenceDescription
+      	iMax is 	int
+      	iMax=myBrowseResult.get_Count()
+      	for i=0 _to_ iMax-1
+      		myRefDescription<-myBrowseResult.get_Item(i)
+      		displayName is string
+      		displayName=myRefDescription.displayName.ToString()
+      		currentNodeId is NodeId(myRefDescription.NodeId.Identifier,myRefDescription.NodeId.NamespaceIndex)
+      		TreeAdd(addressSpaceTree,parent+TAB+displayName,tvDefault,tvDefault,currentNodeId.ToString(),tvLast,currentNodeId.ToString())
+      		
+      	end
+      end
+     type : 458752
+   -
+     name : ShowAttribute
+     procedure_id : 2122932146068214739
+     type_code : 14
+     code : |1+
+      // Summary: Displays the attribute
+      // Syntax:
+      //ShowAttribute (<szNodeId> is string)
+      //
+      // Parameters:
+      //	szNodeId (ANSI string): the NODEID
+      //
+      Procédure ShowAttribute(szNodeId is string)
+      
+      // Deletion
+      TableDeleteAll( AttributeList)
+      
+      // Variables
+      request is RequestHeader dynamic
+      request = new RequestHeader
+      maxAge is int
+      myNodeId is NodeId(szNodeId)
+      maxAge = 1000
+      timeStampToReturn is TimestampsToReturn dynamic
+      timeStampToReturn= TimestampsToReturn.Both
+      nodesToRead is ReadValueIdCollection dynamic
+      nodesToRead = new ReadValueIdCollection
+      myResult is DataValueCollection dynamic
+      myResult = new DataValueCollection
+      diagnosticsInfo is DiagnosticInfoCollection dynamic
+      diagnosticsInfo = new DiagnosticInfoCollection
+      i is int
+      nodetoRead is ReadValueId
+      nodetoRead.NodeId=myNodeId
+      iAttr is int
+      iAttr=1
+      
+      for i=1 _to_ 24
+      	nodesToRead.Clear()
+      	nodetoRead.AttributeId=i
+      	nodesToRead.Add(nodetoRead)
+      	
+      	// Reading
+      	myBrowser.Session.Read(request,maxAge,timeStampToReturn,nodesToRead,myResult,diagnosticsInfo)
+      	resultSize is int
+      	resultSize=myResult.get_Count()
+      	
+      	if resultSize>0 then
+      		ii is int
+      		strName is string
+      		myValue is Opc.Ua.DataValue
+      		
+      		// Browse
+      		for ii=0 _to_ resultSize-1
+      			myValue<-myResult.get_Item(ii)
+      			if (myValue<>Null) then
+      				if (myValue.Value<>Null) then
+      					getAttributeDetail(iAttr,strName)		
+      					szVal is string
+      					szVal=myValue.ToString()		
+      					if (nodetoRead.AttributeId=Attributes.NodeClass) then
+      						if szVal="2" then
+      							selectedNodeId<-myNodeId
+      						end
+      					end		
+      					if (Length(strName)>0) and (Length(szVal)>0) then
+      						sRow is string
+      						sRow=strName+TAB+szVal		
+      						// Add into the table				
+      						TableAdd(AttributeList,sRow)
+      					end
+      				end
+      			end
+      		end	
+      		iAttr++
+      	end
+      end
+      
+      
+     type : 458752
+   -
+     name : getAttributeDetail
+     internal_properties : CAAAAAgAAACoEZMcgd4bjJ7PZuvevr1R3XHTAxXwrzlhXvJo4G5Cj9YGt93Ks9oTODoVK8MxvhkHG2dXv7LducJlCDzkJfNIUFCuI0XK8m+hsDUJZhe/04S3w5DGT7O5wjJZcnKhGonVl7tyQQeg5jIchgJWmqaNkrs05Kh8WOiHwVQv4Z0agbKOZ/du3xSRY/adACfjAk5Map5qN1ovUNsvEfwCrWFTI4AwWy3YdFAsACty4yeToaA=
+     procedure_id : 2122932146068280275
+     type_code : 14
+     code : |1+
+      // Summary: Details of an attribute
+      // Syntax:
+      //getAttributeDetail (<attrId> is int, <strValue> is string)
+      //
+      // Parameters:
+      //	attrId (int): Attribute ID
+      //	strValue (ANSI string): Value
+      //
+      Procédure getAttributeDetail(attrId is int, strValue is string)
+      
+      switch (attrId)
+      	case Attributes.AccessLevel:
+      		strValue = "AccessLevel"
+      	case Attributes.ArrayDimensions:
+      		strValue = "ArrayDimensions"
+      	case Attributes.BrowseName:
+      		strValue = "BrowseName"
+      	case Attributes.ContainsNoLoops:
+      		strValue = "ContainsNoLoops"
+      	case Attributes.DataType:
+      		strValue = "DataType"
+      	case Attributes.Description:
+      		strValue = "Description"
+      	case Attributes.DisplayName:
+      		strValue = "DisplayName"
+      	case Attributes.EventNotifier:
+      		strValue = "EventNotifier"
+      	case Attributes.Executable:
+      		strValue = "Executable"
+      	case Attributes.Historizing:
+      		strValue = "Historizing"
+      	case Attributes.InverseName:
+      		strValue = "InverseName"
+      	case Attributes.IsAbstract:
+      		strValue = "IsAbstract"
+      	case Attributes.MinimumSamplingInterval:
+      		strValue = "MinimumSamplingInterval"
+      	case Attributes.NodeClass:
+      		strValue = "NodeClass"
+      	case Attributes.NodeId:
+      		strValue = "NodeId"
+      	case Attributes.Symmetric:
+      		strValue = "Symmetric"
+      	case Attributes.UserAccessLevel:
+      		strValue = "UserAccessLevel"
+      	case Attributes.UserExecutable:
+      		strValue = "UserExecutable"
+      	case Attributes.UserWriteMask:
+      		strValue = "UserWriteMask"
+      	case Attributes.Value:
+      		strValue = "Value"
+      	case Attributes.ValueRank:
+      		strValue = "ValueRank"
+      	case Attributes.WriteMask:
+      		strValue = "WriteMask"
+      end
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1b892c1300bd7a17
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
